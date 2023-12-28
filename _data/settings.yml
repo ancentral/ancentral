@@ -1,7 +1,8 @@
 #-------------------------------
 # Site Settings
-title: Danto
-description: Danto is a news and magazine Jekyll theme
+title: AndhraCentral
+# TODO: Improve the description of site. Purposeful.
+description: Telugu news website!
 logo: "/images/logo.svg" # You can add own logo. For example "/images/logo.svg".
 logo_dark: "/images/logo-dark.svg"
 color_scheme: auto # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
@@ -13,28 +14,37 @@ menu_settings:
   menu_items:
     - title: "Home"
       url: "/"
-    - title: "Latest"
-      url: "/latest/"
-    - title: "Authors"
-      url: "/authors/"
-    - title: "Videos"
-      url: "/videos/"
-    - title: "Pages"
-      submenu:
-      - url: "/about/"
-        title: "About"
-      - url: "/elements/"
-        title: "Elements"
-      - url: "/contact/"
-        title: "Contact"
-      - url: "/featured/"
-        title: "Featured"
+    - title: "Politics"
+      url: "/politics/"
+    - title: "Movies"
+      url: "/movies/"
+    - title: "Gallery"
+      url: "/gallery/"
+    - title: "About"
+      url: "/about/"
+
+    # - title: "Pages"
+    #   submenu:
+    #   - url: "/about/"
+    #     title: "About"
+    #   - url: "/elements/"
+    #     title: "Elements"
+    #   - url: "/contact/"
+    #     title: "Contact"
+    #   - url: "/featured/"
+    #     title: "Featured"
+
+# Advertise button
+advertise_button:
+  enable: true
+  advertise_button_link: '/advertise/'
+  advertise_button_text: Advertise with Us
 
 # Call to action button
-cta_button:
-  enable: true
-  cta_button_link: '/contact/'
-  cta_button_text: Get in touch
+# cta_button:
+#   enable: true
+#   cta_button_link: '/contact/'
+#   cta_button_text: Contact Us
 
 
 #-------------------------------
@@ -42,7 +52,7 @@ cta_button:
 hero:
   enable: true
   hero_title: One Stop Daily News, Article, Inspiration, and Tips.
-  hero_description: Features productivity, tips, inspiration and strategies for massive profits. Find out how to set up a successful blog or how to make yours even better!
+  hero_description: 🙏🏼 డబ్బులకి మీ వోటు ని అమ్ముకోవద్దు. మీరు వేయబోయే వోటు వలన మాత్రమే మన ఆంధ్రరాష్ట్రాన్ని బాగుచేయాలని శ్రమిస్తున్న జననాయకుడు గెలవగలుగుతాడు. వోటరు కార్డు అప్లై చేసుకోవటానికి ఇక్కడ క్లిక్/ట్యాప్ చేయండి. జై తెలుగు తల్లి! జై జై తెలుగు తల్లి!!
 
 
 #-------------------------------
@@ -52,56 +62,53 @@ tags_section:
   number_posts: 3 # To control how many posts to show under each tag section, set the value to a number. Three is the default.
   number_columns: 3 # You can specify the number of columns from 1-4 for large screen resolution. By default, the theme uses three columns grid.
   tags:
-    - tag: "lifestyle"
-    - tag: "shopping"
-    - tag: "business"
-    - tag: "food"
-    - tag: "sport"
+    - tag: "politics" # // "lifestyle"
+    - tag: "movies" # "shopping"
+    - tag: "gallery" # "business"
+    - tag: "science-and-tech" # "food"
+    - tag: "editorial" # "sport"
 
 # You can add many tag sections to the homepage; each section will show the recent posts by the tag.
 
 
-#-------------------------------
-# Authors Section Settings
-authors_section:
-  enable: true
-  section_title: Meet our authors
+# #-------------------------------
+# # Authors Section Settings
+# authors_section:
+#   enable: true
+#   section_title: Meet our authors
 
 
 #-------------------------------
 # Footer Settings
-footer_description: Features productivity, tips, inspiration and strategies for massive profits. Find out how to set up a successful blog or how to make yours even better!
-
+footer_description: AndhraCentral is born from the people who love Andhra Pradesh and it's people's leaders who are aspiring to work relentlessly to bring back it's glory days. AndhraCentral's one of the main goals is to bring unbiased news for it's audience.
 
 # Social Links
+# TODO: Update social links
 social:
 - {icon: "twitter", link: "https://twitter.com"}
 - {icon: "facebook", link: "https://facebook.com"}
-- {icon: "codepen", link: "https://codepen.io"}
-- {icon: "pinterest", link: "https://pinterest.com"}
-- {icon: "github", link: "https://github.com"}
-- {icon: "youtube", link: "https://youtube.com"}
+- {icon: "instagram", link: "https://instagram.com"}
 
 # Example of adding a new link to the footer - {icon: "instagram", link: "https://instagram.com"}
 # Other icons can be found at https://ionicons.com/v4/
 
 
-#-------------------------------
-# Newsletter Settings
-mailchimp_settings:
-  enable: true
-  mailchimp_title: Get interesting news
-  mailchimp_description: Subscribe to our newsletter and we’ll send you the emails of latest posts.
-  mailchimp_identifier: frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3 # Add your MailChimp form identifier. For example - frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3
-  mailchimp_input_text: Your email address
-  mailchimp_button_text: Subscribe
+# #-------------------------------
+# # Newsletter Settings
+# mailchimp_settings:
+#   enable: true
+#   mailchimp_title: Get interesting news
+#   mailchimp_description: Subscribe to our newsletter and we’ll send you the emails of latest posts.
+#   mailchimp_identifier: frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3 # Add your MailChimp form identifier. For example - frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3
+#   mailchimp_input_text: Your email address
+#   mailchimp_button_text: Subscribe
 
 
 #-------------------------------
 # Contact Settings
-contact:
-  email: your@email.com # Add your form_id
-  description: Danto comes with a built-in contact form, that you can use with Formspree service to handle up to 50 submissions per month for free. You could also easily switch to another contact form service if you want. # Add a description of your form
+# contact:
+#   email: your@email.com # Add your form_id
+#   description: Danto comes with a built-in contact form, that you can use with Formspree service to handle up to 50 submissions per month for free. You could also easily switch to another contact form service if you want. # Add a description of your form
 
 # NOTE
 # Danto theme comes with a contact form built-in. You can use this form with Formspree (https://formspree.io/) service and get up to 50 submissions for free. Also, you can easily switch to another service if you want.

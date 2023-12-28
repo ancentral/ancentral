@@ -29,9 +29,9 @@
     }
   }
 
-   @media (max-width: $mobile) {
-     padding: 48px 0;
-   }
+  @media (max-width: $mobile) {
+    padding: 48px 0;
+  }
 }
 
 /* Widgets */
@@ -92,7 +92,7 @@
     align-items: center;
     flex-wrap: wrap;
 
-    .social__item:first-child > .social__link {
+    .social__item:first-child>.social__link {
       padding-left: 0;
     }
   }
@@ -100,7 +100,7 @@
   .social__item {
     margin-bottom: 0;
     margin-right: 16px;
-  
+
     &:last-child {
       margin-right: 0;
     }
@@ -184,7 +184,7 @@
     .video-icon {
       width: 68px;
       height: 68px;
-  
+
       svg {
         width: 44px;
       }
@@ -226,6 +226,7 @@
 
     .recent-posts__title {
       font-size: 23px;
+
       a {
         text-decoration-thickness: 1.5px;
         text-underline-offset: 3px;

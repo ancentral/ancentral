@@ -63,7 +63,7 @@
       z-index: 100;
       opacity: 1;
       visibility: visible;
-      transform: translate3d(0,0,0);
+      transform: translate3d(0, 0, 0);
     }
 
     .nav__list {
@@ -164,7 +164,7 @@
         .dropdown-menu {
           opacity: 1;
           visibility: visible;
-          transform: translate3d(0,0,0);
+          transform: translate3d(0, 0, 0);
         }
       }
 
@@ -226,6 +226,7 @@
     .dropdown-menu {
       background-color: var(--background-alt-color);
     }
+
     @media (max-width: $desktop) {
       background-color: var(--background-alt-color);
     }

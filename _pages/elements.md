@@ -110,7 +110,7 @@ li {
 
 ## Images
 
-![Shopping]({{site.baseurl}}/images/20.jpg#wide)
+![movies]({{site.baseurl}}/images/20.jpg#wide)
 *Photo by [Tim Douglas](https://www.pexels.com/photo/happy-woman-jumping-with-shopping-bags-6567607/) on [Pexels](https://www.pexels.com)*
 
 <div class="gallery-box">

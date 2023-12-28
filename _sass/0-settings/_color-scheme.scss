@@ -10,19 +10,24 @@
   --gray: #9e9e9e;
   --dark: #111;
   --dark-blue: #1e2943;
+  --ac-red-primary: #CD0200;
+  --ac-red-secondary: #B40200;
 
   --background-color: var(--white);
   --background-alt-color: var(--lighten-blue);
   --background-alt-color-2: var(--light-blue);
-  
+
   --text-color: var(--dark);
   --text-alt-color: var(--blue-gray);
-  
+
   --heading-font-color: var(--dark);
 
   --link-color: var(--dark);
   --link-color-hover: var(--dark);
 
+  // --button-color: var(--white); // Chandra 
+  // --button-background-color: var(--ac-red-primary); // Chandra
+  // --button-background-hover: var(--ac-red-secondary); // Chandra
   --button-color: #320101;
   --button-background-color: var(--primary-color);
   --button-background-hover: #edc352;
@@ -47,10 +52,10 @@
   --background-color: var(--dark-blue);
   --background-alt-color: var(--dark);
   --background-alt-color-2: #262729;
-  
+
   --text-color: var(--gray);
   --text-alt-color: var(--gray);
-  
+
   --heading-font-color: var(--light-gray);
 
   --link-color: var(--light-gray);
@@ -58,7 +63,7 @@
 
   --button-color: var(--dark);
   --button-background-color: var(--primary-color);
-  --button-background-hover:#d3b795;
+  --button-background-hover: #d3b795;
 
   --border-color: #333;
   --border-alt-color: #333;
