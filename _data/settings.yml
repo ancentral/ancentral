@@ -68,8 +68,8 @@ gallery_section:
 # Tags Section Settings
 tags_section:
   enable: true
-  number_posts: 6 # To control how many posts to show under each tag section, set the value to a number. Three is the default.
-  number_columns: 6 # You can specify the number of columns from 1-4 for large screen resolution. By default, the theme uses three columns grid.
+  number_posts: 4 # To control how many posts to show under each tag section, set the value to a number. Three is the default.
+  number_columns: 4 # You can specify the number of columns from 1-4 for large screen resolution. By default, the theme uses three columns grid.
   tags:
     - tag: "politics" # // "lifestyle"
     - tag: "movies" # "shopping"
@@ -108,13 +108,13 @@ social:
 
 # #-------------------------------
 # # Newsletter Settings
-# mailchimp_settings:
-#   enable: true
-#   mailchimp_title: Get interesting news
-#   mailchimp_description: Subscribe to our newsletter and we’ll send you the emails of latest posts.
-#   mailchimp_identifier: frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3 # Add your MailChimp form identifier. For example - frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3
-#   mailchimp_input_text: Your email address
-#   mailchimp_button_text: Subscribe
+mailchimp_settings:
+  enable: true
+  mailchimp_title: Get interesting news
+  mailchimp_description: Subscribe to our newsletter and we’ll send you the emails of latest posts.
+  mailchimp_identifier: frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3 # Add your MailChimp form identifier. For example - frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3
+  mailchimp_input_text: Your email address
+  mailchimp_button_text: Subscribe
 
 
 #-------------------------------

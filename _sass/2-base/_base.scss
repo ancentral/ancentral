@@ -88,11 +88,18 @@ smallnote {
   color: var(--gray);
 }
 
+// Chandra
+// Added this below snippet to change the font-size of the blockquote.
+blockquote p {
+  font-size: 16px;
+}
+
 blockquote {
   position: relative;
   margin: 48px 0;
   padding-left: 32px;
   font-family: $heading-font-family;
+  // font-size: 14px;
   font-size: 30px;
   line-height: 1.6;
   font-style: italic;

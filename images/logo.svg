@@ -1,14 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="143px" height="26px" viewBox="0 0 143 26" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="156px" height="28px" viewBox="0 0 156 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <title>AndhraCentral</title>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" font-family="Montserrat-Bold, Montserrat" font-size="20" font-weight="bold" letter-spacing="-0.9">
-        <text id="AndhraCentral" fill="#CD0200">
-            <tspan x="3.71" y="17">An</tspan>
-            <tspan x="31.13" y="17" letter-spacing="-1.9">dh</tspan>
-            <tspan x="54.99" y="17">r</tspan>
-            <tspan x="61.93" y="17" letter-spacing="-1.6">aC</tspan>
-            <tspan x="85.35" y="17">entr</tspan>
-            <tspan x="124.73" y="17" letter-spacing="-1.9">al</tspan>
-        </text>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" font-family="Poppins-SemiBold, Poppins SemiBold" font-size="20" font-weight="500" letter-spacing="-1.3">
+        <g id="Group-19" transform="translate(-6, -5)" fill="#CD0200">
+            <text id="AndhraCentral">
+                <tspan x="16.53" y="26">AndhraCentral</tspan>
+            </text>
+        </g>
     </g>
 </svg>

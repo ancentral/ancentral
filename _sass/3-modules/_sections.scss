@@ -1,6 +1,6 @@
 /* Sections */
 .section {
-  margin-bottom: 64px;
+  margin-bottom: 10px;
 
   @media (max-width: $mobile) {
     margin-bottom: 48px;
@@ -13,10 +13,10 @@
 
 .section__info {
   position: relative;
-  margin-bottom: 32px;
+  margin-bottom: 10px;
 
   @media (max-width: $mobile) {
-    margin-bottom: 24px;
+    margin-bottom: 10px;
   }
 }
 
@@ -29,10 +29,10 @@
 
 .section__title {
   margin-bottom: 0;
-  font-size: 32px;
+  font-size: 24px;
 
   @media (max-width: $mobile) {
-    font-size: 28px;
+    font-size: 24px;
   }
 }
 
