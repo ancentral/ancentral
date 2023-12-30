@@ -3,7 +3,7 @@
 title: AndhraCentral
 # TODO: Improve the description of site. Purposeful.
 description: Telugu news website!
-logo: "/images/logo.svg" # You can add own logo. For example "/images/logo.svg".
+logo: "/images/logo-draw.svg" # You can add own logo. For example "/images/logo.svg".
 logo_dark: "/images/logo-dark.svg"
 color_scheme: auto # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
 
@@ -15,24 +15,21 @@ menu_settings:
     - title: "Home"
       url: "/"
     - title: "Politics"
-      url: "/tags/?tag=politics"
+      url: "/tags?tag=politics"
     - title: "Movies"
-      url: "/tags/?tag=movies"
+      url: "/tags?tag=movies"
     - title: "Gallery"
-      url: "/tags/?tag=gallery"
-    - title: "About"
-      url: "/about/"
-
-    # - title: "Pages"
-    #   submenu:
-    #   - url: "/about/"
-    #     title: "About"
-    #   - url: "/elements/"
-    #     title: "Elements"
-    #   - url: "/contact/"
-    #     title: "Contact"
-    #   - url: "/featured/"
-    #     title: "Featured"
+      url: "/tags?tag=gallery"
+    - title: "More"
+      submenu:
+      - url: "/about/"
+        title: "About"
+      - url: "/disclaimer/"
+        title: "Disclaimer"
+      - url: "/privacy/"
+        title: "Privacy Policy"
+      - url: "/aggregation/"
+        title: "News Aggregation Policy"
 
 # Advertise button
 advertise_button:
@@ -74,11 +71,8 @@ tags_section:
     - tag: "politics" # // "lifestyle"
     - tag: "movies" # "shopping"
     # - tag: "gallery" # "business" Moved to separate settings - gallery_section
-    - tag: "PawanKalyan"
-    - tag: "Janasena"
-    - tag: "TDP"
-    - tag: "YSRCP"
-    - tag: "science-and-tech" # "food"
+    - tag: "international"
+    - tag: "science&tech" # "food"
     - tag: "editorial" # "sport"    
 
 # You can add many tag sections to the homepage; each section will show the recent posts by the tag.
