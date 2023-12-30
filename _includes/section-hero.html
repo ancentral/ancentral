@@ -1,0 +1,18 @@
+{% if site.data.settings.hero.enable == true %}
+<!-- begin hero -->
+<section class="hero">
+  <div class="hero__inner">
+    <!-- {{ if site.data.settings.hero.hero_title }}
+    <h1 class="hero__title">{{ site.data.settings.hero.hero_title }}</h1>
+    {{ end }} -->
+    {{ if site.data.settings.hero.hero_description }}
+    <a target="_blank" href="https://voteridcard.org.in/158/apply-voter-id-card-andhra-pradesh">
+      <p class="hero__description">{{site.data.settings.hero.hero_description
+        }}
+      </p>
+    </a>
+    {{ end }}
+  </div>
+</section>
+<!-- end hero -->
+{% endif %}
