@@ -1,11 +1,34 @@
 ---
 layout: post
 title: 'Dunki Movie Review'
+description: 'Hirani misses his charm. SRK could have been better.'
 date: 2023-12-21 15:01:35 +0300
 author: AndhraCentral Desk
 image: 'https://res.cloudinary.com/acentral/image/upload/v1704001096/reviews/0_tyVYcMJaNWSeKw4A_gckk3x.jpg'
 tags: [movies]
 ---
+
+meta content="{{ site.title }}" property="og:site_name">
+{% if page.title %}
+  <meta content="{{ page.title }}" property="og:title">
+{% else %}
+  <meta content="{{ site.title }}" property="og:title">
+{% endif %}
+{% if page.description %}
+  <meta content="{{ page.description }}" property="og:description">
+{% else %}
+  <meta content="{{ site.description }}" property="og:description">
+{% endif %}
+{% if page.url %}
+  <meta content="{{ site.url }}{{ page.url }}" property="og:url">
+{% endif %}
+{% if page.image %}
+  <meta content="https://res.cloudinary.com/acentral/image/upload/v1704001096/reviews/0_tyVYcMJaNWSeKw4A_gckk3x.jpg" property="og:image">
+{% else %}
+  <meta content="{{ site.url }}/images/og.png" property="og:image">
+{% endif %}
+
+
 <table>
   <tr>
     <td>Rating</td>
