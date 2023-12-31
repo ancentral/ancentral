@@ -1,7 +1,7 @@
 ---
 title: Disclaimer
 layout: page
-permalink: /disclaimer
+permalink: /disclaimer/
 ---
 
 <smallnote>Updated on Oct 10, 2023.</smallnote>
