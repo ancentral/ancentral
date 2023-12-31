@@ -9,6 +9,26 @@ tags: [politics]
 featured: true
 ---
 
+meta content="{{ site.title }}" property="og:site_name">
+{% if page.title %}
+  <meta content="{{ page.title }}" property="og:title">
+{% else %}
+  <meta content="{{ site.title }}" property="og:title">
+{% endif %}
+{% if page.description %}
+  <meta content="{{ page.description }}" property="og:description">
+{% else %}
+  <meta content="{{ site.description }}" property="og:description">
+{% endif %}
+{% if page.url %}
+  <meta content="{{ site.url }}{{ page.url }}" property="og:url">
+{% endif %}
+{% if page.image %}
+  <meta content="https://res.cloudinary.com/acentral/image/upload/v1647127999/pawank/PawanKalyan_epqvb2.jpg" property="og:image">
+{% else %}
+  <meta content="{{ site.url }}/images/og.png" property="og:image">
+{% endif %}
+
 Jana Sena Party (JSP) chief Pawan Kalyan wrote to Prime Minister Narendra Modi requesting him to initiate a probe by central agencies into an alleged scam in the distribution of house sites and construction of houses for the poor in Andhra Pradesh.
 
 In his 5-page letter to PM Modi, he accused the YS Jagan Mohan Reddy-led government of carrying out the multi-crore scam in the name of distribution of house sites and construction of houses for the poor.
