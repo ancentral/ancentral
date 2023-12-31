@@ -1,7 +1,7 @@
 ---
 title: News Aggregation Policy
 layout: page
-permalink: /aggregation
+permalink: /aggregation/
 ---
 
 <smallnote>Updated on Oct 10, 2023.</smallnote>

@@ -28,7 +28,7 @@ menu_settings:
         title: "Disclaimer"
       - url: "/privacy/"
         title: "Privacy Policy"
-      - url: "/aggregation/"
+      - url: "/aggregation"
         title: "News Aggregation Policy"
 
 # Advertise button
