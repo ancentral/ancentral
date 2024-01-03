@@ -36,14 +36,6 @@ layout: default
 <div class="container">
 
   <div class="row">
-    <div class="sidebar-left col col-3 col-w-4 col-d-12">
-      <aside class="sidebar">
-        {% include sidebar-widgets/widget-post-author.html %}
-        {% include sidebar-widgets/widget-featured-posts.html %}
-        {% include sidebar-widgets/widget-tags.html %}
-      </aside>
-    </div>
-
     <div class="col col-9 col-w-8 col-d-12">
       <article class="post">
 
@@ -71,7 +63,13 @@ layout: default
         {% include share-buttons.html %}
       </article>
     </div>
-
+    <div class="sidebar-left col col-3 col-w-4 col-d-12">
+      <aside class="sidebar">
+        {% include sidebar-widgets/widget-post-author.html %}
+        {% include sidebar-widgets/widget-featured-posts.html %}
+        {% include sidebar-widgets/widget-tags.html %}
+      </aside>
+    </div>
   </div>
 </div>
 <!-- end post -->
