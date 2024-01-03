@@ -34,7 +34,7 @@ menu_settings:
 # Advertise button
 advertise_button:
   enable: true
-  advertise_button_link: '/advertise/'
+  advertise_button_link: '/advertise'
   advertise_button_text: Advertise with Us
 
 # Call to action button

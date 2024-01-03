@@ -19,7 +19,7 @@
 
     <div class="article__content">
 
-      <div class="article__meta">
+      <!-- <div class="article__meta">
         {% if post.tags.size >= 1 %}
         <div class="article__tags">
           {% for tag in post.tags %}
@@ -29,7 +29,7 @@
         {% endif %}
         <span class="article__date">•<time datetime="{{ post.date | date_to_xmlschema }}">{% assign date_format =
             site.minima.date_format | default: "%d %-b, %Y" %}{{ post.date | date: date_format }}</time></span>
-      </div>
+      </div> -->
 
       <h2 class="article__title">
         <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
