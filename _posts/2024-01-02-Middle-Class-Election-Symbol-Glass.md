@@ -9,6 +9,27 @@ tags: [politics]
 featured: true
 ---
 
+<meta content="{{ site.title }}" property="og:site_name">
+{% if page.title %}
+  <meta content="{{ page.title }}" property="og:title">
+{% else %}
+  <meta content="{{ site.title }}" property="og:title">
+{% endif %}
+{% if page.description %}
+  <meta content="{{ page.description }}" property="og:description">
+{% else %}
+  <meta content="{{ site.description }}" property="og:description">
+{% endif %}
+{% if page.url %}
+  <meta content="{{ site.url }}{{ page.url }}" property="og:url">
+{% endif %}
+{% if page.image %}
+  <meta content="https://res.cloudinary.com/acentral/image/upload/v1704257633/Misc/glass_qqbwig.png" property="og:image">
+{% else %}
+  <meta content="{{ site.url }}/images/og.png" property="og:image">
+{% endif %}
+
+
 It is very usual for Pawan Kalyan to be trending every month on Twitter for one or the other reasons - be it, his movies, his speeches or his fans keep on the spirit of Janasena alive. One such another organic trend is happenning right now on Twitter.
 
 > మాది మిడిల్ క్లాస్! మా గుర్తు గ్లాస్!!
