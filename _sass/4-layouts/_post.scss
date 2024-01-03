@@ -471,6 +471,14 @@
   }
 }
 
+.vuukle-button {
+  margin: 64px 0;
+
+  @media (max-width: $mobile) {
+    margin: 48px 0;
+  }
+}
+
 .post__comments {
   max-width: 780px;
   margin: 0 auto;
