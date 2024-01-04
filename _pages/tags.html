@@ -30,8 +30,12 @@ permalink: /tags
       <div class="row">
         {% for post in site.tags[this_word] %}
         {% if post.title != null %}
-        <div class="col col-4 col-d-6 col-t-12">
+        <div class="col col-2 col-d-6 col-t-12">
+          {% if this_word == "gallery" %}
+          {% include gallery-article.html %}
+          {% else %}
           {% include article.html %}
+          {% endif %}
         </div>
         {% endif %}
         {% endfor %}
