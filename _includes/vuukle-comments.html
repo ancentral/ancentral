@@ -12,26 +12,39 @@
       </div>
 
       <script>
-        var disqus_loaded = false;
-        var disqus_shortname = '{{ site.data.settings.disqus_identifier }}';
-        var disqus_container = document.getElementById("disqus_thread");
-        window.onload = vuukle();
-        function vuukle() {
-          if (!disqus_loaded) {
-            disqus_loaded = true;
-            var e = document.createElement("script");
-            e.type = "text/javascript";
-            e.async = true;
-            e.src = "//" + disqus_shortname + ".disqus.com/embed.js";
-            (document.getElementsByTagName("head")[0] ||
-              document.getElementsByTagName("body")[0])
-              .appendChild(e);
-            // Hide the button after opening
-            document.getElementById("show-comments-button").style.display = "none";
-            // Show disqus comments
-            disqus_container.classList.add("is-open");
-          }
-        }
+        var VUUKLE_CONFIG = {
+          comments: {
+            transliteration: { //Enables transliteration
+              language: "en",
+              enabledByDefault: true,
+            },
+            auth: {
+              facebook: false,
+              google: false,
+              twitter: false,
+              disqus: true,
+              password: true,
+              vuukle: true,
+            },
+            editorOptions: ['image', 'gif', 'bold', 'italic', 'underline', 'url', 'blockquote', 'code', 'list'], // you can enable/disable ability to paste image or gif, choose the style of text
+            hideRecommendedArticles: false, //Hides "Talk of the town" section
+            hideMoreNews: true, // hide button 'Show more articles'
+            hideCommentInputBox: false, // Hides Comment input field (can be expanded by pressing on the "add comment button")
+            enabled: true, //Enables comment widget
+            commentingClosed: false, // Closes commenting (Users can view already posted comments but can't post new ones)
+            maxChars: 3000, //Comment char limit (You can set a limit up to 3000 characters)
+            countToLoad: 10, // number of comments to load initialy on the page
+            toxicityLimit: 80, // 1-99 - you can set how strict is the automoderation. 100 - disables the parameter
+            spamLimit: 50, //1-99 - you can set how strict is the spam limit. 100  - disables the parameter
+            hideCommentInputBoxWithButton: false, //Hides Comment input field (without "add comment button")
+            sorting: latest / oldest //sorts by latest or oldest comments on initial loading
+            customText: {}, // please check this article for custom texts https://docs.vuukle.com/how-to-do-language-customizations-if-using-js-implementation/
+          },
+          theme: {
+            color: "#10e9ba",
+            darkMode: true,
+          },
+        },
       </script>
 
       <noscript>Please enable JavaScript to view the
