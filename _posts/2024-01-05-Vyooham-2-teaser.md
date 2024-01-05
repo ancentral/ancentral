@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Yaatra 2 Teaser: Peddling agenda and exaggerated emotions"
+title: "Yaatra 2 Teaser: Peddling agenda with exaggerated emotions"
 description: "Cringe, agenda, exaggerated narration, disproportionate emotions all over."
 date: 2024-01-05 15:01:35 +0300
 author: AndhraCentral Desk
