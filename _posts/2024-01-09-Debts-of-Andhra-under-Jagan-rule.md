@@ -40,4 +40,6 @@ This is how Andhra Pradesh if faring so low in the metrics.
 - AP scores 39.02 while National Avg 45.71
 - Ranked 29 among the 36 states & UTs in India
 
+
 People are strongly feeling that the state of Andhra Pradesh can only be changed by developed a leader who truly loves Andhra Pradesh and who works harder for Andhra Pradesh.
+
