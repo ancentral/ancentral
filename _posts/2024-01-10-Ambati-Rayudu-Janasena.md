@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "BREAKING: Ambati Rayudu joins Janasena. Says Jagan is does not have any leadership qualities."
-description: "Ambati Rayudu says 'నాకు జగన్ గారిలో ఎటువంటి నాయకత్వ లక్షణాలు కనిపించలేదు. ప్రతీసారీ #PawanKalyan గారి గురించే మండిపడుతూ ఉండేవాళ్ళు, అయన అస్థిరత్వం నచ్చక YSRCP కి రాజీనామా చేశాను. పవన్ కళ్యాణ్ గారి ఆలోచన విధానం, నాయకత్వం నచ్చి ఈరోజు ఆయనని కలవడం జరిగింది.'"
+title: "BREAKING: Ambati Rayudu leaves YSRCP. Says Jagan asked for 140 Crores for MLA seat and asked me to earn after winning the seat."
+description: "Ambati Rayudu: MLA సీటు కు 140 కోట్లు అడిగారు. తరువాత సంపాదించుకో అన్నారు. నాకు జగన్ గారిలో ఎటువంటి నాయకత్వ లక్షణాలు కనిపించలేదు. ప్రతీసారీ #PawanKalyan గారి గురించే మండిపడుతూ ఉండేవాళ్ళు, అయన అస్థిరత్వం నచ్చక YSRCP కి రాజీనామా చేశాను. పవన్ కళ్యాణ్ గారి ఆలోచన విధానం, నాయకత్వం నచ్చి ఈరోజు ఆయనని కలవడం జరిగింది.'"
 date: 2024-01-09 15:01:35 +0300
 author: AndhraCentral Desk
 image: 'https://res.cloudinary.com/acentral/image/upload/v1704911767/pawank/GDfQpvtXoAApDqX_brzwcl.jpg'
