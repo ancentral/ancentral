@@ -4,6 +4,18 @@ layout: page
 permalink: /aggregation/
 ---
 
+{% if jekyll.environment == 'production' %}
+<!-- Google tag (gtag.js) NEWS AGGREGATION -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-DYFNRN4WVZ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-DYFNRN4WVZ');
+</script>
+{% endif %}
+
 <smallnote>Updated on Oct 10, 2023.</smallnote>
 
 Along with the articles our team writes, [andhracentral.com](https://andhracentral.com) curates news articles from aggregators. 

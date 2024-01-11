@@ -4,6 +4,21 @@ layout: page
 permalink: /privacy/
 ---
 
+{% if jekyll.environment == 'production' %}
+
+<!-- Google tag (gtag.js) PRIVACY POLICY -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-J12ZNV37HL"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-J12ZNV37HL');
+</script>
+
+{% endif %}
+
+
 <smallnote>Updated on Oct 10, 2023.</smallnote>
 
 The Privacy Policy (hereinafter "the policy") provided below is with respect to our use and protection of any personal information you provide to us through the [andhracentral.com](https://andhracentral.com) website.

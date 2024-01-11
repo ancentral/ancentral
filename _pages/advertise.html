@@ -4,6 +4,20 @@ title: Advertise with Us
 permalink: /advertise
 ---
 
+{% if jekyll.environment == 'production' %}
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-MNDWPCJTZ3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-MNDWPCJTZ3');
+</script>
+{% endif %}
+
+
 <div class="form-box">
   <div class="contact-head">
     AndhraCentral's viewership is growing day by day. We can't be more happier to bring the unbiased news for more and

@@ -4,6 +4,18 @@ layout: page
 permalink: /disclaimer/
 ---
 
+{% if jekyll.environment == 'production' %}
+<!-- Google tag (gtag.js) DISCLAIMER PAGE -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-1L02TMGWJS"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-1L02TMGWJS');
+</script>
+{% endif %}
+
 <smallnote>Updated on Oct 10, 2023.</smallnote>
 
 [andhracentral.com](https://andhracentral.com), its owners, associates and employees are not responsible for any errors, omissions or representations on any of our pages or on any links on any of our pages.

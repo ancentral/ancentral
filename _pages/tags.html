@@ -19,16 +19,16 @@ permalink: /tags
             <h1 class="tag__title">{{ this_word }} <span class="tag__counter">{{ site.tags[this_word].size }}</span>
             </h1>
             {% if jekyll.environment == 'production' %}
-            {% if this_word == "politics" %}
-              {% include analytics-politics.html %}
-            {% elsif this_word == "movies" %}
-              {% include analytics-movies.html %}
-            {% elsif this_word == "editorial" %}
-              {% include analytics-editorials.html %}
-            {% elsif this_word == "science-and-tech" %}
-              {% include analytics-tech.html %}
-            {% endif %}
-          {% endif %}            
+              {% if this_word == "politics" %}
+                {% include analytics-politics.html %}
+              {% elsif this_word == "movies" %}
+                {% include analytics-movies.html %}
+              {% elsif this_word == "editorial" %}
+                {% include analytics-editorials.html %}
+              {% elsif this_word == "science-and-tech" %}
+                {% include analytics-tech.html %}
+              {% endif %}
+            {% endif %}            
           </div>
         </div>
       </div>
