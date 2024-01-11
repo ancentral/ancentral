@@ -58,9 +58,10 @@ sass:
 
 #-------------------------------
 # Google Analytics
-google_analytics_AC_Home: G-1YH789X2L4
+google_analytics_AC_Home: G-1YH789X2L4  
 google_analytics_AC_Politics: G-QF9P17QM2Z
 google_analytics_AC_Movies: G-8Y334746GE
-google_analytics_AC_Galleries: G-ZPEGZYJFJF
-google_analytics_AC_Tech: G-HW9L9X4NY8
 google_analytics_AC_Editorials: G-NKDHD1RR1V
+google_analytics_AC_Galleries: G-ZPEGZYJFJF   # _layout/gallery.html
+google_analytics_AC_Tech: G-HW9L9X4NY8
+

@@ -11,7 +11,18 @@ layout: default
           {% if page.tags.size >= 1 %}
           <div class="post__tags">
             {% for tag in page.tags %}
-            <a href="{{ site.baseurl }}/tags?tag={{ tag | downcase | url_encode }}" class="post__tag">{{ tag }}</a>
+              {% if jekyll.environment == 'production' %}
+                {% if tag == "politics" %}
+                  {% include analytics-politics.html %}
+                {% elsif tag == "movies" %}
+                  {% include analytics-movies.html %}
+                {% elsif tag == "editorial" %}
+                  {% include analytics-editorials.html %}
+                {% elsif tag == "science-and-tech" %}
+                  {% include analytics-tech.html %}
+                {% endif %}
+              {% endif %}
+              <a href="{{ site.baseurl }}/tags?tag={{ tag | downcase | url_encode }}" class="post__tag">{{ tag }}</a>
             {% endfor %}
           </div>
           {% endif %}

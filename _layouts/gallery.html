@@ -1,7 +1,9 @@
 ---
 layout: default
 ---
-
+{% if site.google_analytics_AC_Galleries and jekyll.environment == 'production' %}
+{% include analytics-galleries.html %}
+{% endif %}
 <div class="container">
   <div class="row">
     <div class="col col-10 col-w-12">
