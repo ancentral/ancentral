@@ -8,7 +8,7 @@ image: 'https://res.cloudinary.com/acentral/image/upload/v1704001096/reviews/0_t
 tags: [movies]
 ---
 
-meta content="{{ site.title }}" property="og:site_name">
+<meta content="{{ site.title }}" property="og:site_name">
 {% if page.title %}
   <meta content="{{ page.title }}" property="og:title">
 {% else %}
@@ -23,7 +23,7 @@ meta content="{{ site.title }}" property="og:site_name">
   <meta content="{{ site.url }}{{ page.url }}" property="og:url">
 {% endif %}
 {% if page.image %}
-  <meta content="https://res.cloudinary.com/acentral/image/upload/v1704001096/reviews/0_tyVYcMJaNWSeKw4A_gckk3x.jpg" property="og:image">
+  <meta content="https://res.cloudinary.com/acentral/image/upload/v1705075498/reviews/maxresdefault_gfgbbx.jpg" property="og:image">
 {% else %}
   <meta content="{{ site.url }}/images/og.png" property="og:image">
 {% endif %}
