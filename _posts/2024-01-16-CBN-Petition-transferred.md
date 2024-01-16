@@ -5,7 +5,6 @@ description: "Chandrababu Naidu's plea in Skill Development ‘scam’: A bench 
 date: 2024-01-15 15:01:35 +0300
 author: AndhraCentral Desk
 image: 'https://res.cloudinary.com/acentral/image/upload/v1705422819/cbn/69471932_zdxv6e.jpg'
-video_embed: "https://www.youtube.com/embed/IK7Ze__bWMQ"
 tags: [politics]
 featured: true
 ---
@@ -30,7 +29,7 @@ featured: true
   <meta content="{{ site.url }}/images/og.png" property="og:image">
 {% endif %}
 
-NEW DELHI: A division bench of the Supreme Court on Tuesday gave split verdict on a plea by former Andhra Pradesh chief minister N Chandrababu Naidu for quashing of criminal proceedings against him in the Skill Development Corporation scam case. The two judges on the bench took contrasting stands on interpretation of Section 17A of the Prevention of the Corruption Act which talks about taking sanction before initiating proceedings against any public authority.
+A division bench of the Supreme Court on Tuesday gave split verdict on a plea by former Andhra Pradesh chief minister N Chandrababu Naidu for quashing of criminal proceedings against him in the Skill Development Corporation scam case. The two judges on the bench took contrasting stands on interpretation of Section 17A of the Prevention of the Corruption Act which talks about taking sanction before initiating proceedings against any public authority.
 
 Section 17A of the Act, inserted by way of an amendment in July 2018, makes it mandatory for a police officer to get previous approval of the competent authority before an inquiry or investigation into offences relatable to recommendations made or decisions taken by a public servant in the discharge of official functions or duties.
 
