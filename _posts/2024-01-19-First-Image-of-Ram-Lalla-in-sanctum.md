@@ -1,5 +1,5 @@
 ---
-layout: gallery
+layout: post
 title: "First image of Ram Lalla with Golder Bow and arrow revealed."
 description: "The idol depicts Sri Ram as a five-year-old child in a standing posture. It was sculpted by Mysuru-based artist Arun Yogiraj."
 date: 2024-01-19 19:01:35 +0300
