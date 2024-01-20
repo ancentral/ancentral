@@ -5,7 +5,7 @@ description: "The idol depicts Sri Ram as a five-year-old child in a standing po
 date: 2024-01-19 19:01:35 +0300
 author: AndhraCentral Desk
 image: 'https://res.cloudinary.com/acentral/image/upload/v1705728898/Misc/8nb3f09s_ram-idol-complete-look_625x300_19_January_24_swqepd.jpg'
-tags: [politics]
+tags: [national]
 featured: true
 ---
 
