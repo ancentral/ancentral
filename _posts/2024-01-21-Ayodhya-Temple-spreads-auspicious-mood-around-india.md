@@ -9,6 +9,26 @@ tags: [national]
 featured: true
 ---
 
+meta content="{{ site.title }}" property="og:site_name">
+{% if page.title %}
+  <meta content="{{ page.title }}" property="og:title">
+{% else %}
+  <meta content="{{ site.title }}" property="og:title">
+{% endif %}
+{% if page.description %}
+  <meta content="{{ page.description }}" property="og:description">
+{% else %}
+  <meta content="{{ site.description }}" property="og:description">
+{% endif %}
+{% if page.url %}
+  <meta content="{{ site.url }}{{ page.url }}" property="og:url">
+{% endif %}
+{% if page.image %}
+  <meta content="https://res.cloudinary.com/acentral/image/upload/v1705866190/Misc/ram-modi_frilrw.png" property="og:image">
+{% else %}
+  <meta content="{{ site.url }}/images/og.png" property="og:image">
+{% endif %}
+
 By Sunita Sri Chaganti
 
 Hindus around India and the world are looking forward for the date, January 22, 2024, on the occasion of the Ayodhya Ram Janmabhoomi temple inauguration. The auspicious mood has been triggering so much of national integrity around the Hindu families, streets, villages, towns and through out India. Every Hindu is feeling blessed and spreading the one-family sentiment among themselves.
