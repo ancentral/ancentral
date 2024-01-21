@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Ayodhya Ram Janmbabhoomi Temple inauguration spreads auspicious mood through out India"
+title: "Ayodhya Ram Temple inauguration: Auspicious mood through out India"
 description: "Irrespective of age and creed, Hindus around India and the words are celebrating January 22 with blessed environment and auspicious mood."
 date: 2024-01-21 19:01:35 +0300
 author: AndhraCentral Desk
-image: 'https://res.cloudinary.com/acentral/image/upload/v1705864112/Misc/230915082701-04-india-ram-mandir-rebuild_d87cn5.jpg'
+image: 'https://res.cloudinary.com/acentral/image/upload/v1705866190/Misc/ram-modi_frilrw.png'
 tags: [national]
 featured: true
 ---
