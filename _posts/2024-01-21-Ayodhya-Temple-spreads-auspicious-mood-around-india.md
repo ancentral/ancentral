@@ -9,7 +9,7 @@ tags: [national]
 featured: true
 ---
 
-meta content="{{ site.title }}" property="og:site_name">
+<meta content="{{ site.title }}" property="og:site_name">
 {% if page.title %}
   <meta content="{{ page.title }}" property="og:title">
 {% else %}
