@@ -5,9 +5,30 @@ description: Jagan Mohan Reddy once again made derogatory personal attacks on Ja
 date: 2023-12-29 15:01:35 +0300
 author: AndhraCentral Desk
 image: 'https://res.cloudinary.com/acentral/image/upload/v1647127760/ganja/jagan_.jpg'
-tags: [news]
+tags: [news, jagan]
 featured: true
 ---
+
+<meta content="{{ site.title }}" property="og:site_name">
+{% if page.title %}
+  <meta content="{{ page.title }}" property="og:title">
+{% else %}
+  <meta content="{{ site.title }}" property="og:title">
+{% endif %}
+{% if page.description %}
+  <meta content="{{ page.description }}" property="og:description">
+{% else %}
+  <meta content="{{ site.description }}" property="og:description">
+{% endif %}
+{% if page.url %}
+  <meta content="{{ site.url }}{{ page.url }}" property="og:url">
+{% endif %}
+{% if page.image %}
+  <meta content="https://res.cloudinary.com/acentral/image/upload/v1647127760/ganja/jagan_.jpg" property="og:image">
+{% else %}
+  <meta content="{{ site.url }}/images/og.png" property="og:image">
+{% endif %}
+
 Jagan Mohan Reddy once again taunted and made personal attack on on actor-politician Pawan Kalyan calling him a 'marriage star'. People felt that it is low of a behavior for a Cheif Minister to make such remarks on CM candidate Pawan Kalyan. He remarked that in real life, Pawan Kalyan does not spend more than 3-4 years with one wife.
 
 > People felt that it is low of a behavior for a Cheif Minister to make such remarks on CM candidate Pawan Kalyan.

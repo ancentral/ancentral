@@ -5,7 +5,7 @@ description: "ఈ ఎన్నికలలో గెలుస్తాడని 
 date: 2024-01-25 19:01:35 +0300
 author: AndhraCentral Desk
 image: 'https://res.cloudinary.com/acentral/image/upload/v1706219794/ganja/jagan-mohan-reddy-addresses-media_6c67e722-287d-11e9-b7de-6a9a06b91305_v4c35t.jpg'
-tags: [politics]
+tags: [politics, jagan]
 featured: true
 ---
 

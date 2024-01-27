@@ -5,7 +5,7 @@ description: 35000 కోట్ల జగన్ అవినీతి పై ట
 date: 2023-12-30 15:01:35 +0300
 author: AndhraCentral Desk
 image: 'https://res.cloudinary.com/acentral/image/upload/v1647127999/pawank/PawanKalyan_epqvb2.jpg'
-tags: [politics]
+tags: [politics, pawankalyan, jagan]
 featured: true
 ---
 

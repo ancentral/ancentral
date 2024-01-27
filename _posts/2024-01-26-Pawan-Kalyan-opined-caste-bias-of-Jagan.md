@@ -5,7 +5,7 @@ description: "Jansena chief Pawan Kalyan also asked to answer the question inste
 date: 2024-01-26 19:01:35 +0300
 author: AndhraCentral Desk
 image: 'https://res.cloudinary.com/acentral/image/upload/v1706336542/pawank/ys-jagan-pawan-kalyan-1539836277_b60xcd.jpg'
-tags: [politics, international]
+tags: [politics, pawankalyan, jagan]
 featured: true
 ---
 

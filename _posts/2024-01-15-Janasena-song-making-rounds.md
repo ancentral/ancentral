@@ -6,7 +6,7 @@ date: 2024-01-15 15:01:35 +0300
 author: AndhraCentral Desk
 image: 'https://res.cloudinary.com/acentral/image/upload/v1705377817/pawank/maxresdefault_awiaet.jpg'
 video_embed: "https://www.youtube.com/embed/IK7Ze__bWMQ"
-tags: [politics]
+tags: [politics, pawankalyan]
 featured: true
 ---
 

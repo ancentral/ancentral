@@ -5,9 +5,29 @@ description: 35000 కోట్ల జగన్ అవినీతి పై ట
 date: 2023-12-30 15:01:35 +0300
 author: AndhraCentral Desk
 image: 'https://res.cloudinary.com/acentral/image/upload/v1647052350/pawank/Jagan-and-Pawan-1_tsnnod.jpg'
-tags: [politics]
+tags: [politics, PawanKalyan]
 featured: true
 ---
+
+<meta content="{{ site.title }}" property="og:site_name">
+{% if page.title %}
+  <meta content="{{ page.title }}" property="og:title">
+{% else %}
+  <meta content="{{ site.title }}" property="og:title">
+{% endif %}
+{% if page.description %}
+  <meta content="{{ page.description }}" property="og:description">
+{% else %}
+  <meta content="{{ site.description }}" property="og:description">
+{% endif %}
+{% if page.url %}
+  <meta content="{{ site.url }}{{ page.url }}" property="og:url">
+{% endif %}
+{% if page.image %}
+  <meta content="https://res.cloudinary.com/acentral/image/upload/v1647052350/pawank/Jagan-and-Pawan-1_tsnnod.jpg" property="og:image">
+{% else %}
+  <meta content="{{ site.url }}/images/og.png" property="og:image">
+{% endif %}
 
 [Janasena Chief Pawan Kalyan wrote a letter to PM Sri. Narendra Modi about Jagan's YSRCP Government Scam](http://andhracentral.com/latest/pawan-writes-to-modi-seeks-probe-into-jagan-s-35000cr-scam).
 

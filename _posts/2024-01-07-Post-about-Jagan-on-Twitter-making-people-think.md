@@ -5,7 +5,7 @@ description: "Cases of total 35 sections, 38 total cases, 158 'stay' requests by
 date: 2024-01-07 15:01:35 +0300
 author: AndhraCentral Desk
 image: 'https://res.cloudinary.com/acentral/image/upload/v1704685044/ganja/GDSZg8fW4AAtlFH_cveqpr.jpg'
-tags: [politics]
+tags: [politics, jagan]
 featured: true
 ---
 

@@ -5,7 +5,7 @@ description: "Jagan had promised a lot of things before elections of 2019. He di
 date: 2024-01-09 15:01:35 +0300
 author: AndhraCentral Desk
 image: 'https://res.cloudinary.com/acentral/image/upload/v1647127805/ganja/tdp-misleads-people-on-kapu-reservations_b_3007180730_fvitx2.jpg'
-tags: [politics]
+tags: [politics, jagan]
 featured: true
 ---
 

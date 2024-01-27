@@ -5,7 +5,7 @@ description: "Very disturbing video of Andhra teens is making rounds on social n
 date: 2024-01-03 15:01:35 +0300
 author: AndhraCentral Desk
 image: 'https://res.cloudinary.com/acentral/image/upload/v1704320458/ganja/liquor-andhra.png'
-tags: [politics]
+tags: [politics, jagan]
 featured: true
 ---
 

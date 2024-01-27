@@ -5,9 +5,29 @@ description: "Contrary to what YCP is claiming, education sector is not in a goo
 date: 2024-01-09 15:01:35 +0300
 author: AndhraCentral Desk
 image: "https://res.cloudinary.com/acentral/image/upload/v1704838368/ganja/education-jagan_y5cbwh.png"
-tags: [politics]
+tags: [politics, jagan]
 featured: true
 ---
+
+<meta content="{{ site.title }}" property="og:site_name">
+{% if page.title %}
+  <meta content="{{ page.title }}" property="og:title">
+{% else %}
+  <meta content="{{ site.title }}" property="og:title">
+{% endif %}
+{% if page.description %}
+  <meta content="{{ page.description }}" property="og:description">
+{% else %}
+  <meta content="{{ site.description }}" property="og:description">
+{% endif %}
+{% if page.url %}
+  <meta content="{{ site.url }}{{ page.url }}" property="og:url">
+{% endif %}
+{% if page.image %}
+  <meta content="https://res.cloudinary.com/acentral/image/upload/v1704838368/ganja/education-jagan_y5cbwh.png" property="og:image">
+{% else %}
+  <meta content="{{ site.url }}/images/og.png" property="og:image">
+{% endif %}
 
 Andhra Pradesh's alarming educational metrics!
 

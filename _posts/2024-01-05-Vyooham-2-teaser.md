@@ -6,7 +6,7 @@ date: 2024-01-05 15:01:35 +0300
 author: AndhraCentral Desk
 image: 'https://res.cloudinary.com/acentral/image/upload/v1704482788/ganja/Yatra-2_zmso80.jpg'
 video_embed: "https://www.youtube.com/embed/NRDZBsPxCIw"
-tags: [politics]
+tags: [politics, jagan]
 featured: true
 ---
 
