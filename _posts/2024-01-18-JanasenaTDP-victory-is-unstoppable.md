@@ -5,7 +5,7 @@ description: "తాజాగా ఎన్టీఆర్ వ‌ర్ధంత�
 date: 2024-01-18 15:01:35 +0300
 author: AndhraCentral Desk
 image: 'https://res.cloudinary.com/acentral/image/upload/v1705632627/cbn/pawan-meets-ap-cm-chandrababu-tomorrow_b_1111150441_lrc6nd.jpg'
-tags: [politics, PawanKalyan]
+tags: [politics, pawankalyan]
 featured: true
 ---
 

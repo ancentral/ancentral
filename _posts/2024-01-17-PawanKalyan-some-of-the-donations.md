@@ -5,7 +5,7 @@ description: "It is not a secret to anyone in Telugu states that Pawan Kalyan ha
 date: 2024-01-17 15:01:35 +0300
 author: AndhraCentral Desk
 image: 'https://res.cloudinary.com/acentral/image/upload/v1705546442/pawank/PawanKDonations.png'
-tags: [politics]
+tags: [politics, pawankalyan]
 featured: true
 ---
 

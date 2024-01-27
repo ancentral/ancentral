@@ -5,7 +5,7 @@ description: "Ambati Rayudu: MLA సీటు కు 140 కోట్లు అ�
 date: 2024-01-09 15:01:35 +0300
 author: AndhraCentral Desk
 image: 'https://res.cloudinary.com/acentral/image/upload/v1704911767/pawank/GDfQpvtXoAApDqX_brzwcl.jpg'
-tags: [politics, jagan]
+tags: [politics, jagan, pawankalyan]
 featured: true
 ---
 

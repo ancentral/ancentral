@@ -5,7 +5,7 @@ description: "Social network is an influential place and the videos and the twee
 date: 2024-01-20 19:01:35 +0300
 author: AndhraCentral Desk
 image: 'https://res.cloudinary.com/acentral/image/upload/v1647127760/ganja/jagan_.jpg'
-tags: [politics, jagan]
+tags: [politics, jagan, pawankalyan]
 featured: true
 ---
 

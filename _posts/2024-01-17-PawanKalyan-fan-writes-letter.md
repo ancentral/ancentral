@@ -5,7 +5,7 @@ description: "Janasenani Pawan Kalyan received a letter from an NRI that made hi
 date: 2024-01-17 15:01:35 +0300
 author: AndhraCentral Desk
 image: 'https://res.cloudinary.com/acentral/image/upload/v1705545532/pawank/DmD2hLBUwAItaYE_mq2q8m.jpg'
-tags: [politics]
+tags: [politics, pawankalyan]
 featured: true
 ---
 

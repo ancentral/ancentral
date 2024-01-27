@@ -6,7 +6,7 @@ date: 2024-01-09 15:01:35 +0300
 author: AndhraCentral Desk
 image: "https://res.cloudinary.com/acentral/image/upload/v1704842667/pawank/cr-20230712en64aee4b52268e_pxtunm.jpg"
 featured: true
-tags: [politics]
+tags: [politics, pawankalyan]
 ---
 
 పవన్ కల్యాణ్ గారి వారాహి యాత్ర పుణ్యమా అని తెలుగు ప్రజలందరికీ వైసీపీ పార్టీ వాలంటీర్ వ్యవస్థ వలన జరిగే తప్పుడు పనులు చాలా బయటకు తెలిశాయి. ఇప్పటికే చాలా మంది ప్రజలు ఇంటి తలుపు తడుతున్న వాలంటీర్ ల ను ఇంట్లోకి రానివ్వకుండానే వెళ్లిపొమ్మంటున్నారు.
