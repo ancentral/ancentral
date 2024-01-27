@@ -5,7 +5,7 @@ description: "Trending hot topic on Twitter is మాది మిడిల్ �
 date: 2024-01-02 15:01:35 +0300
 author: AndhraCentral Desk
 image: 'https://res.cloudinary.com/acentral/image/upload/v1704257633/Misc/glass_qqbwig.png'
-tags: [politics]
+tags: [politics, pawankalyan]
 featured: true
 ---
 

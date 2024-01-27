@@ -5,7 +5,7 @@ description: Jagan Mohan Reddy once again made derogatory personal attacks on Ja
 date: 2023-12-29 15:01:35 +0300
 author: AndhraCentral Desk
 image: 'https://res.cloudinary.com/acentral/image/upload/v1647127760/ganja/jagan_.jpg'
-tags: [news, jagan]
+tags: [news, pawankalyan, jagan]
 featured: true
 ---
 

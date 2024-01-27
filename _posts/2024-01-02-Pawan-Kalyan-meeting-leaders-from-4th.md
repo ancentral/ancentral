@@ -5,7 +5,7 @@ description: "Pawan Kalyan to meet his representatives from Jan 4th onwards"
 date: 2024-01-02 15:01:35 +0300
 author: AndhraCentral Desk
 image: 'https://res.cloudinary.com/acentral/image/upload/v1647281623/pawank/6ba4c377486395.Y3JvcCwzMjc4LDI1NjQsMjc2Nyww_ttlp2k.jpg'
-tags: [politics]
+tags: [politics, pawankalyan]
 featured: true
 ---
 

@@ -5,7 +5,7 @@ description: "Ruptured relationsip with brother. Alliance with Congress who bifu
 date: 2024-01-02 15:01:35 +0300
 author: AndhraCentral Desk
 image: 'https://res.cloudinary.com/acentral/image/upload/v1647404641/ganja/jsa_nb6sgd.png'
-tags: [politics]
+tags: [politics, pawankalyan]
 featured: true
 ---
 

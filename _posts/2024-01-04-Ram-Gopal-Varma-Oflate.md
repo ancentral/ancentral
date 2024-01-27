@@ -5,7 +5,7 @@ description: "RGV, Vyooham movie and the aftermath irrecoverable losses?"
 date: 2024-01-04 15:01:35 +0300
 author: AndhraCentral Desk
 image: 'https://res.cloudinary.com/acentral/image/upload/v1704388812/Misc/ramgb.png'
-tags: [movies]
+tags: [movies, pawankalyan]
 featured: true
 ---
 
