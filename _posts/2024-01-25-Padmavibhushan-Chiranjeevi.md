@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "చిరంజీవి గారికి పద్మవిభూషణ్ పురస్కారాని ప్రకటించిన కేంద్ర ప్రభుత్వం."
+title: "చిరంజీవి గారికి పద్మవిభూషణ్ పురస్కారాన్ని ప్రకటించిన కేంద్ర ప్రభుత్వం."
 description: "కేంద్ర ప్రభుత్వం తనను పద్మవిభూషణ్‌ కు ఎంపిక చేసినందుకు చిరంజీవి గారు సంతోషం వ్యక్తం చేస్తూ భావోద్వేగానికి లోనయ్యారు"
 date: 2024-01-25 19:01:35 +0300
 author: AndhraCentral Desk
 image: 'https://res.cloudinary.com/acentral/image/upload/v1706212751/pawank/chiru-hero.jpg_uw3nlj.webp'
-tags: [politics]
+tags: [politics, pawankalyan]
 featured: true
 ---
 
