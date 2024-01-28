@@ -1,7 +1,7 @@
 ---
 layout: gallery
 title: Pooja Bhalekar in recent photoshoot
-date: 2024-01-28 15:01:35 +0300
+date: 2024-01-24 15:01:35 +0300
 author: AndhraCentral Desk
 image: 'https://res.cloudinary.com/acentral/image/upload/v1703873301/238879-8q9785go_dqfo5i.webp'
 # video_embed: https://www.youtube.com/embed/phiMxtqlFIY
