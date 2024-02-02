@@ -71,7 +71,7 @@
     user-select: none;
   }
 
-  @supports not (aspect-ratio: 4/3) {
+  @supports not (aspect-ratio: 16/9) {
     padding-bottom: 75%;
   }
 
@@ -85,7 +85,7 @@
   transform: translate(0);
   display: block;
   margin-bottom: 20px;
-  aspect-ratio: 4/3;
+  aspect-ratio: 16/9;
   border-radius: 22px;
   outline: none;
   overflow: hidden;
@@ -99,7 +99,7 @@
     user-select: none;
   }
 
-  @supports not (aspect-ratio: 4/3) {
+  @supports not (aspect-ratio: 16/9) {
     padding-bottom: 75%;
   }
 

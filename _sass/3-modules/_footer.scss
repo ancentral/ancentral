@@ -147,7 +147,7 @@
   display: block;
   transform: translate(0);
   min-width: 180px;
-  aspect-ratio: 4/3;
+  aspect-ratio: 16/9;
   margin-right: 20px;
   border-radius: 22px;
   overflow: hidden;
@@ -162,7 +162,7 @@
     object-fit: cover;
   }
 
-  @supports not (aspect-ratio: 4/3) {
+  @supports not (aspect-ratio: 16/9) {
     height: 0;
     padding-bottom: 75%;
   }
