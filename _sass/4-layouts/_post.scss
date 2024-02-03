@@ -77,7 +77,7 @@
   transform: translate(0);
   aspect-ratio: 16/9;
   margin-bottom: 32px;
-  border-radius: 22px;
+  border-radius: 10px;
   overflow: hidden;
   background: var(--background-alt-color);
 
@@ -106,7 +106,7 @@
   transform: translate(0);
   aspect-ratio: 16/9;
   margin-bottom: 32px;
-  border-radius: 22px;
+  border-radius: 10px;
   overflow: hidden;
   background: var(--background-alt-color);
 
@@ -132,7 +132,7 @@
 .post-video,
 .page-video {
   margin-bottom: 32px;
-  border-radius: 22px;
+  border-radius: 10px;
   overflow: hidden;
   transform: translate(0);
   background-color: var(--background-alt-color);
@@ -316,7 +316,7 @@
     display: block;
     min-width: 260px;
     aspect-ratio: 16/9;
-    border-radius: 22px;
+    border-radius: 10px;
     overflow: hidden;
     background-color: var(--background-alt-color);
     transition: transform .3s ease;
@@ -399,7 +399,7 @@
     }
 
     .post__nav__title {
-      font-size: 22px;
+      font-size: 10px;
     }
   }
 

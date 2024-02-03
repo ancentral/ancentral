@@ -111,7 +111,7 @@
     display: flex;
     align-items: center;
     padding: 4px;
-    font-size: 22px;
+    font-size: 10px;
     color: var(--heading-font-color);
     will-change: transform;
     transition: $global-transition;
@@ -149,7 +149,7 @@
   min-width: 180px;
   aspect-ratio: 16/9;
   margin-right: 20px;
-  border-radius: 22px;
+  border-radius: 10px;
   overflow: hidden;
   background: var(--background-alt-color);
 

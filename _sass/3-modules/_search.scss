@@ -62,7 +62,7 @@
     left: 24px;
     top: 50%;
     transform: translateY(-50%);
-    font-size: 22px;
+    font-size: 10px;
     line-height: 1;
     color: var(--heading-font-color);
   }
@@ -139,7 +139,7 @@
     margin-right: 16px;
     min-width: 100px;
     height: 90px;
-    border-radius: 22px;
+    border-radius: 10px;
     transition: transform .3s ease;
     will-change: transform;
     background-size: cover;

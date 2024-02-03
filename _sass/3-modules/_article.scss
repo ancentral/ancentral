@@ -20,7 +20,7 @@
   @media (max-width: $tablet) {
     &.article--big {
       .article__title {
-        font-size: 22px;
+        font-size: 10px;
         line-height: 1.4;
 
         a {
@@ -58,7 +58,7 @@
   display: block;
   margin-bottom: 10px;
   aspect-ratio: 9/10;
-  border-radius: 22px;
+  border-radius: 10px;
   outline: none;
   overflow: hidden;
   background: var(--background-alt-color);
@@ -86,7 +86,7 @@
   display: block;
   margin-bottom: 20px;
   aspect-ratio: 16/9;
-  border-radius: 22px;
+  border-radius: 10px;
   outline: none;
   overflow: hidden;
   background: var(--background-alt-color);
