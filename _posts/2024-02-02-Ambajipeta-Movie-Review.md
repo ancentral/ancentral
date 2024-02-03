@@ -6,6 +6,7 @@ date: 2024-02-02 15:01:35 +0300
 author: AndhraCentral Desk
 image: 'https://res.cloudinary.com/acentral/image/upload/reviews/ambaji-peta-band-movie-review_dsfj7r.jpg'
 tags: [movies]
+featured: true
 ---
 
 <meta content="{{ site.title }}" property="og:site_name">
