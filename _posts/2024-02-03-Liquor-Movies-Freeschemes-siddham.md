@@ -4,7 +4,7 @@ title: "సినిమాలు, సిద్ధం సభలు, ఫ్రీ 
 description: "ఈ సినిమాల వల్ల ఏంటి ఉపయోగం? వేరే వాళ్ల సినిమాలకు 5/- టికెట్టులు. వేరేవాళ్ల మీద బురద చల్లేలా సమాజం సిగ్గుపడే డైరెక్టర్లతో సినిమాలా అని ప్రజలు ముచ్చటిస్తున్నారు."
 date: 2024-02-03 00:01:35 +0300
 author: AndhraCentral Desk
-image: 'https://res.cloudinary.com/acentral/image/upload/v1707004370/ganja/jaganyatra_fjwras.png'
+image: 'https://res.cloudinary.com/acentral/image/upload/v1707005152/ganja/jaganyatra_iu6ykl.png'
 tags: [politics, pawankalyan, jagan]
 featured: true
 ---
@@ -24,7 +24,7 @@ featured: true
   <meta content="{{ site.url }}{{ page.url }}" property="og:url">
 {% endif %}
 {% if page.image %}
-  <meta content="https://res.cloudinary.com/acentral/image/upload/v1707004370/ganja/jaganyatra_fjwras.png" property="og:image">
+  <meta content="https://res.cloudinary.com/acentral/image/upload/v1707005152/ganja/jaganyatra_iu6ykl.png" property="og:image">
 {% else %}
   <meta content="{{ site.url }}/images/og.png" property="og:image">
 {% endif %}
