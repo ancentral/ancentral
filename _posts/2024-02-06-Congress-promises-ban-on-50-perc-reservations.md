@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "మళ్లీ మళ్లీ తప్పుడు సమాచారం పోస్ట్ చేస్తున్న YSRCP?"
-description: "99% వాగ్దానాలు అమలా? జనాలు నవ్వుతున్నారు!"
+title: "Congress - Yet another day and yet another promise"
+description: "Now Congress promises ban on 50% reservations."
 date: 2024-02-04 00:01:35 +0300
 author: AndhraCentral Desk
 image: 'https://res.cloudinary.com/acentral/image/upload/v1707235780/rahulgandhi_zqlecl.jpg'
