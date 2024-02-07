@@ -1,9 +1,9 @@
 ---
 layout: gallery
 title: "JustSaree Gallery"
-date: 2024-02-04 00:01:35 +0300
+date: 2024-02-06 00:01:35 +0300
 author: AndhraCentral Desk
-image: 'https://res.cloudinary.com/acentral/image/upload/v1707072296/Galleries/8cuw8ianhocc1_hinfjr.png'
+image: 'https://res.cloudinary.com/acentral/image/upload/v1707273754/Galleries/k825awq4tr8c1_wiofc8.png'
 tags: [gallery]
 ---
 
@@ -11,6 +11,7 @@ Celebrate the Saree style - Traditional and modern. A feed of saree pictures tha
 
 <div class="gallery-box">
   <div class="gallery">
+    <img src="https://res.cloudinary.com/acentral/image/upload/v1707273754/Galleries/k825awq4tr8c1_wiofc8.png" loading="lazy">
     <img src="https://res.cloudinary.com/acentral/image/upload/v1707072296/Galleries/8cuw8ianhocc1_hinfjr.png" loading="lazy">
     <img src="https://res.cloudinary.com/acentral/image/upload/v1706983236/Galleries/87p89ge4kvdc1_xqigol.webp" loading="lazy">
     <img src="https://res.cloudinary.com/acentral/image/upload/v1706983238/Galleries/2774fvqsmudc1_e53wpr.webp" loading="lazy">
