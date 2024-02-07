@@ -2,7 +2,7 @@
 layout: post
 title: "దివాళా దిశగా ఆంధ్ర ప్రదేశ్. ఐనా హామీలు గుప్పిస్తున్న జగన్."
 description: "కాగ్ వెల్లడి. కేంద్రప్రభుత్వం ఆపనున్న నిధులు. ఎడతెరపి లేకుండా జగన్ ఫ్రీస్కీములు, హామీలు."
-date: 2024-02-04 00:00:35 +0300
+date: 2024-02-06 00:00:35 +0300
 author: AndhraCentral Desk
 image: 'https://res.cloudinary.com/acentral/image/upload/v1707278068/ganja/andhraeconomy_on0u6n.jpg'
 tags: [politics, pawankalyan, jagan]
