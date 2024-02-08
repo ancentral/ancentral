@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'మెలోడీ బ్రహ్మ మణిశర్మ గారు మన హృదయాలు చేరి 30 ఏళ్లు'
+title: 'Celebrating 30 years of Mani Sharma garu in Movies'
 description: 'Star Maa celebrates 30 years of Mani Sharma'
 date: 2024-02-08 00:01:35 +0300
 author: AndhraCentral Desk
