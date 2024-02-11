@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "What went wrong with Barbell Biryani "
+title: "What went wrong with Barbell Biryani?"
 date: 2024-02-10 00:01:35 +0300
 description: "Barbell Biryani posted video that has been a topic on Social Media recently. What's up with him?"
 author: "AndhraCentral Desk"
@@ -35,11 +35,11 @@ I thank AndhraCentral for letting me write this article for them.
 
 ---
 
-Since a day, there has been a topic about a Telugu person who posts movie reviews. The account name is Barbell Biryani. I am intentionally not posting his real name. As far as I know, I will mention what I understood. This might not be the total truth or the series of events. But, we need to understand several things here. I will try to explain.
+Since a day, there has been a topic about a Telugu person who posts movie reviews. The account name is Barbell Biryani. I am intentionally not posting his real name. I will mention what I understood. This might not be the total truth or the series of events. But, we need to understand several things here. I will try to explain.
 
 ### Who is Barbell Biryani?
 
-Barbell Biryani is a Telugu person who went to USA to purise MS in Data Science. As people mentioned on Twitter, now he is working in USA on H1 work permit. As a hobby, and another source of income as himself claimed (see the references at the end of the article), he keeps posting videos by reviewing some movies mostly Indian movies. Also, he posts Pitch Meetings [which mimic this guy's videos](https://www.youtube.com/@PitchMeetings).
+Barbell Biryani is a Telugu person who went to USA to pursue MS in Data Science. As people mentioned on Twitter, now he is working in USA on H1 work permit. As a hobby, and another source of income as himself claimed (see the references at the end of the article), he keeps posting videos by reviewing some movies mostly Indian movies. Also, he posts Pitch Meetings, [as originally done by this guy](https://www.youtube.com/@PitchMeetings).
 
 ### YSRCP and recent acts of Social Media Influencers
 
