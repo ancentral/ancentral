@@ -29,6 +29,8 @@ featured: true
   <meta content="{{ site.url }}/images/og.png" property="og:image">
 {% endif %}
 
+You may want to read [Yaatra - 2 review here.](https://andhracentral.com/latest/yaatra-2-review).
+
 Yaatra 2 is supposed to be a biopic film. But, the movie is altered to a level that it became a fantasy film. This happens when a film is made to cater to just some group of people. Also, the movie is very well timed for elections, Siddham sabha etc. 
 
 > Some people said, it is to "rejuvenate" the "morales" of volunteers and YCP's vote bank people.
