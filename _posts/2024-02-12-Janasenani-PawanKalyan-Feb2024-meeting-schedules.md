@@ -5,7 +5,7 @@ description: ""
 date: 2024-02-12 00:01:35 +0300
 author: "AndhraCentral Desk"
 image: 'https://res.cloudinary.com/acentral/image/upload/v1707753867/pawank/pawankschedulefeb2024_o4ttse.png'
-tags: [pawankalyan, movies]
+tags: [pawankalyan, politics]
 featured: true
 ---
 
