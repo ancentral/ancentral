@@ -39,6 +39,12 @@ YSRCP party has an agenda in that movie. Some people said, it is to "rejuvenate"
 
 > Also, YCP people must have realized that this is not a Pawan Kalyan movie to reduce the price of the tickets to Rs. 5/-
 
+<div class="gallery-box">
+  <div class="gallery">
+    <img src="https://res.cloudinary.com/acentral/image/upload/v1707712392/Misc/GGCCDLCXUAA5MfQ_txhvpg.jpg" loading="lazy">
+  </div>
+</div>
+
 Also, this is not a Pawan Kalyan movie to reduce the price of the tickets to Rs. 5/-. The reason YSRCP gave for that pricing for Pawan Kalyan movie is that their "wish" is that entertainment should be available even for common man. But, YSRCP does not have this reason for Yaatra 2 movie. The price of this movie ticket is not Rs. 5/-. 
 
 Yaatra 2 needs a target of Rs. 8 crores for break-even. But on the first day it got only 98 lakhs of collections. People said that the educated people did not even care to watch the film. 
