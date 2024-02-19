@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "దేశంలో 3వ అత్యధిక ఆస్తులు కలిగిన ఎంపీలు మరియు ఎమ్మెల్యేలు వైసీపీ వారే!"
+title: "ఆంధ్రా అప్పుల ఊబి గురించి జాతీయ మీడియా లో చర్చ. ఎడతెరపి లేకుండా జగన్ ఫ్రీస్కీముల హామీలు."
 description: ""
-date: 2024-02-15 00:01:35 +0300
+date: 2024-02-16 00:01:35 +0300
 author: "AndhraCentral Desk"
 image: 'https://res.cloudinary.com/acentral/image/upload/v1708233410/ganja/andhraeconomy2_zt0i5m.jpg'
 tags: [politics, jagan]

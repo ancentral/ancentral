@@ -2,7 +2,7 @@
 layout: post
 title: "దేశంలో 3వ అత్యధిక ఆస్తులు కలిగిన ఎంపీలు మరియు ఎమ్మెల్యేలు వైసీపీ వారే!"
 description: ""
-date: 2024-02-15 00:01:35 +0300
+date: 2024-02-16 00:01:35 +0300
 author: "AndhraCentral Desk"
 image: 'https://res.cloudinary.com/acentral/image/upload/v1708232716/ganja/ycpmlampassets_ykbzmk.jpg'
 tags: [politics, jagan]
