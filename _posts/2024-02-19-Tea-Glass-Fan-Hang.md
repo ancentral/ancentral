@@ -3,10 +3,30 @@ layout: post
 title: "టీ గ్లాస్ - సంతోషం, అభివృద్ధి."
 date: 2024-02-19 00:01:35 +0300
 author: "AndhraCentral Desk"
-image: 'https://res.cloudinary.com/acentral/image/upload/v1708364189/pawank/teaglass_s1c7m3.jpg'
+image: 'https://res.cloudinary.com/acentral/image/upload/v1708363860/pawank/teaglassfordevelopment_blfaao.jpg'
 tags: [politics, jagan]
 featured: true
 ---
+
+<meta content="{{ site.title }}" property="og:site_name">
+{% if page.title %}
+  <meta content="{{ page.title }}" property="og:title">
+{% else %}
+  <meta content="{{ site.title }}" property="og:title">
+{% endif %}
+{% if page.description %}
+  <meta content="{{ page.description }}" property="og:description">
+{% else %}
+  <meta content="{{ site.description }}" property="og:description">
+{% endif %}
+{% if page.url %}
+  <meta content="{{ site.url }}{{ page.url }}" property="og:url">
+{% endif %}
+{% if page.image %}
+  <meta content="https://res.cloudinary.com/acentral/image/upload/v1708363860/pawank/teaglassfordevelopment_blfaao.jpg" property="og:image">
+{% else %}
+  <meta content="{{ site.url }}/images/og.png" property="og:image">
+{% endif %}
 
 పాలనలో ఉన్నప్పుడు జగన్ ఏ ఒక్క ప్రెస్‌మీట్ పెట్టలేదు. అలాంటిది ఆకస్మికంగా సిద్ధం అని బయటికొచ్చి ఫ్రీస్కీములిస్తుంటే సరికి వాళ్ల వాలంటీర్లకు వొళ్లూ పై తెలియకుండా మీం లు వేస్తున్నారు. టీ గ్లాస్ పగిలిందనీ, సింక్ లో ఉండాలనీ.
 
