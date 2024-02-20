@@ -24,7 +24,7 @@ featured: true
   <meta content="{{ site.url }}{{ page.url }}" property="og:url">
 {% endif %}
 {% if page.image %}
-  <meta content="https://res.cloudinary.com/acentral/image/upload/v1708464030/Galleries/siddham-sabha-ugly_dsrogf.gif" property="og:image">
+  <meta content="https://res.cloudinary.com/acentral/image/upload/v1708464784/Galleries/uuvatasiddham_gghcau.jpg" property="og:image">
 {% else %}
   <meta content="{{ site.url }}/images/og.png" property="og:image">
 {% endif %}
