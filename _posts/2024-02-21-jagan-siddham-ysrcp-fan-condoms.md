@@ -5,7 +5,7 @@ description: ""
 date: 2024-02-21 00:01:35 +0300
 author: "AndhraCentral Desk"
 image: 'https://res.cloudinary.com/acentral/image/upload/v1708534832/ganja/ysrcpcondom_arbxql.jpg'
-tags: [politics, pawankalyan]
+tags: [politics, jagan]
 featured: true
 ---
 
