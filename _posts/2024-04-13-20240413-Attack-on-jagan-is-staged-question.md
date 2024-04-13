@@ -4,7 +4,7 @@ title: 'జగన్ మీద దాడి తనే చేయించుక�
 description: "People are suspecting that the attack on jagan is staged and not real"
 date: 2024-04-13 00:01:35 +0300
 author: "AndhraCentral Desk"
-image: 'https://res.cloudinary.com/acentral/image/upload/v1711902769/janasenavideoplate_zcwyud.jpg'
+image: 'https://res.cloudinary.com/acentral/image/upload/v1713033349/ganja/jaganattack_csg44a.jpg'
 tags: [politics, pawankalyan, ysjagan]
 featured: true
 ---
@@ -24,7 +24,7 @@ featured: true
   <meta content="{{ site.url }}{{ page.url }}" property="og:url">
 {% endif %}
 {% if page.image %}
-  <meta content="https://res.cloudinary.com/acentral/image/upload/v1711902769/janasenavideoplate_zcwyud.jpg" property="og:image">
+  <meta content="https://res.cloudinary.com/acentral/image/upload/v1713033349/ganja/jaganattack_csg44a.jpg" property="og:image">
 {% else %}
   <meta content="{{ site.url }}/images/og.png" property="og:image">
 {% endif %}
