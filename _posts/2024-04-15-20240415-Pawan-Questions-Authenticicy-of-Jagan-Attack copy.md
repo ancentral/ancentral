@@ -1,0 +1,35 @@
+---
+layout: post
+title: '"అందుకే అసహనంతో రాళ్లు వేపించుకుంటున్నాడు, సభల్లో చిల్లర విమర్శలు చేస్తున్నాడు"'
+description: ""
+date: 2024-04-16 00:01:35 +0300
+author: "AndhraCentral Desk"
+image: 'https://res.cloudinary.com/acentral/image/upload/v1713336545/ganja/jagan-frustrated_rs3cip.jpg'
+tags: [politics, pawankalyan, ysjagan]
+featured: true
+---
+
+<meta content="{{ site.title }}" property="og:site_name">
+{% if page.title %}
+  <meta content="{{ page.title }}" property="og:title">
+{% else %}
+  <meta content="{{ site.title }}" property="og:title">
+{% endif %}
+{% if page.description %}
+  <meta content="{{ page.description }}" property="og:description">
+{% else %}
+  <meta content="{{ site.description }}" property="og:description">
+{% endif %}
+{% if page.url %}
+  <meta content="{{ site.url }}{{ page.url }}" property="og:url">
+{% endif %}
+{% if page.image %}
+  <meta content="https://res.cloudinary.com/acentral/image/upload/v1713336545/ganja/jagan-frustrated_rs3cip.jpg" property="og:image">
+{% else %}
+  <meta content="{{ site.url }}/images/og.png" property="og:image">
+{% endif %}
+
+Pawan Kalyan has been vocal about Janasena party and his agenda. During the meetings, he expressed his views oraciously and clearly. At the same time, he is experssing his thoughts on the so called attack on Jagan.
+
+
+<blockquote class="twitter-tweet"><p lang="te" dir="ltr">ఏదో పేరుకి ఒక AC బస్సు ఏసుకొని తిరుగుతున్నాడు కానీ వచ్చే జనాలను చూసి అర్థం అయినట్టుంది పనైపోయింది అని. అందుకే అసహనంతో రాళ్లు వేపించుకుంటున్నాడు, సభల్లో చిల్లర విమర్శలు చేస్తున్నాడు. Get well soon <a href="https://twitter.com/ysjagan?ref_src=twsrc%5Etfw">@ysjagan</a>!<a href="https://twitter.com/hashtag/HelloAP_ByeByeYCP?src=hash&amp;ref_src=twsrc%5Etfw">#HelloAP_ByeByeYCP</a>👋<a href="https://twitter.com/hashtag/APVotesForNDA?src=hash&amp;ref_src=twsrc%5Etfw">#APVotesForNDA</a>☝️<a href="https://twitter.com/hashtag/AllianceForABetterFuture?src=hash&amp;ref_src=twsrc%5Etfw">#AllianceForABetterFuture</a>✊ <a href="https://t.co/iVLnbgqyiE">pic.twitter.com/iVLnbgqyiE</a></p>&mdash; JanaSena Party (@JanaSenaParty) <a href="https://twitter.com/JanaSenaParty/status/1780453099007553579?ref_src=twsrc%5Etfw">April 17, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
