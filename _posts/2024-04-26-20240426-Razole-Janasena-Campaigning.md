@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'క్రిమినల్ కేసులు: ఓవైసీ-5, మాధవి-0'
+title: 'జనసేన జైత్రయాత్రకు శ్రీకారం చుట్టనున్న రాజోలు'
 description: ""
 date: 2024-04-26 00:01:35 +0300
 author: "AndhraCentral Desk"
