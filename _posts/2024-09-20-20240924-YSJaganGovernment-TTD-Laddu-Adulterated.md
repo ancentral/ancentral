@@ -5,7 +5,7 @@ description: "జగన్ బాప్తిజం తీసుకున్న�
 date: 2024-09-20 00:01:35 +0300
 author: "AndhraCentral Desk"
 image: 'https://res.cloudinary.com/acentral/image/upload/v1726862667/ganja/ksancozvmqqqjnofvroa.png'
-tags: [movies]
+tags: [politics]
 featured: true
 ---
 
