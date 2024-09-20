@@ -8,6 +8,7 @@ tags: [gallery]
 ---
 
 Celebrate the Saree style - Traditional and modern. A feed of saree pictures that gets updated daily.
+[JustSaree at Reddit](https://reddit.com/r/justsaree)
 
 <div class="gallery-box">
   <div class="gallery">
