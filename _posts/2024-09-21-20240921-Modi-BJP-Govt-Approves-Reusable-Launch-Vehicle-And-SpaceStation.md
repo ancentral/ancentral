@@ -5,7 +5,7 @@ description: ""
 date: 2024-09-21 00:01:35 +0300
 author: "AndhraCentral Desk"
 image: 'https://res.cloudinary.com/acentral/image/upload/v1726964754/science/ISRO-BJP-Programmes_j2ouct.jpg'
-tags: [politics]
+tags: [science-and-tech]
 featured: true
 ---
 
