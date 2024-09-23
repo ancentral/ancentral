@@ -7,8 +7,6 @@ image: 'https://res.cloudinary.com/acentral/image/upload/v1714178383/Galleries/3
 tags: [gallery]
 ---
 
-Celebrate the Saree style - Traditional and modern. A feed of saree pictures that gets updated daily.
-
 <div class="gallery-box">
   <div class="gallery">
     <img src="https://res.cloudinary.com/acentral/image/upload/v1714178383/Galleries/368347-87ngh668_gtgs41.gif" loading="lazy">
