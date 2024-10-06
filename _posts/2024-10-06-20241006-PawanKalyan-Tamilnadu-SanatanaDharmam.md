@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "A week ago housewarming done! HYDRA demolished home today!"
+title: "పవన్ తాడు లాగాడు. తమిళనాటి హిందూవ్యతిరేక డొంక కదిలింది."
 description: ""
-date: 2024-09-24 00:01:35 +0300
+date: 2024-10-06 00:01:35 +0300
 author: "AndhraCentral Desk"
-image: 'https://res.cloudinary.com/acentral/image/upload/v1727241536/Misc/HYDRAA-Demolish_gq8ho4.jpg'
+image: 'https://res.cloudinary.com/acentral/image/upload/v1728254442/pawank/pawantamilnadu_lk4hsc.jpg'
 tags: [national]
 featured: true
 ---
@@ -24,28 +24,23 @@ featured: true
   <meta content="{{ site.url }}{{ page.url }}" property="og:url">
 {% endif %}
 {% if page.image %}
-  <meta content="https://res.cloudinary.com/acentral/image/upload/v1727241536/Misc/HYDRAA-Demolish_gq8ho4.jpg" property="og:image">
+  <meta content="https://res.cloudinary.com/acentral/image/upload/v1728254442/pawank/pawantamilnadu_lk4hsc.jpg" property="og:image">
 {% else %}
   <meta content="{{ site.url }}/images/og.png" property="og:image">
 {% endif %}
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Sad 😢 <br><br>Just a week ago, house warming was done. A week later, his house🏡demolished‼️<br><br>How does the brother of CM Revanth reddy gets notice with 30 days time to approach court &amp; get a stay⁉️ Why don’t poor &amp; middle class people get enough time⁉️ Why selective approach⁉️… <a href="https://t.co/3m7vPB3Ppu">pic.twitter.com/3m7vPB3Ppu</a></p>&mdash; Putta Vishnuvardhan Reddy (@PuttaVishnuVR) <a href="https://twitter.com/PuttaVishnuVR/status/1838390063773978911?ref_src=twsrc%5Etfw">September 24, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+తిరుమల తిరుపతి ప్రసాద విషయమైల్ ఇప్పటికీ పోరాటం చేస్తున్న పవన్ కల్యాణ్, సనాతన ధర్మ పరిరక్షణ దిశగా అడుగులు వేస్తున్నారు. హిందూ ధర్మాన్ని తూలనాడితే ఊరుకోబోమని చెప్తూనే పరమత సహనం హిందువులలో అత్యంత ఎక్కువ అనీ, సెక్యులర్ భావాలు హిందువులకే కాదు వేరే వాళ్లకూ ఉండాలనీ, సెక్యులర్ భావజాలం పరస్పరం ఉండాలనీ సూచించారు.
 
-According to the police, about 28 houses, all reportedly constructed illegally on government land, are being demolished; revenue and municipal departments are carrying out the demolitions in Patelguda and Krishnareddypet of Ameenpur, amid tight police security
+తిరుమల తిరుపతి కి నెయ్యి ని సప్లై చేసిన కంపెనీ నే తమిలనాటి ఆలయాలకు కూడా  సప్లై చేసిందని తెలిసిన విషయమే. తమిళనాడు లో బాహటంగా ఉదయనిధి స్టాలిన్ సనాతన ధర్మ నిర్మూలన గావిస్తామని ప్రతిజ్ఞ చేసిన విషయం తెలిసిందే. ఈ విషయాన్ని, తమిళనాడు లో ని దేవాలయాల మీద ఉన్న చిన్న చూపునూ మళ్లీ గుర్తు చేస్తూ పవన్ కల్యాణ్ తనదైన శైలి లో విరుచుకు పడ్డారు. పవన్ కల్యాణ్ మీద డీ-ఎం-కే మద్దతుదారులు ట్విటర్ వేదికగా మాటలు తూలనాడారు. 
 
-Teams from revenue and municipal departments are carrying out the demolitions in Patelguda and Kistareddypet of Ameenpur, amid tight police security.
+> ఈ తరుణం లో పవన్ కల్యాణ్, జనసేన మద్దతుదారులో ఏమాత్రం సహించకుండా ఇవ్వవలసినదానికంటే ఎక్కువ మోతాదులోనే తిరిగి సమాధానం చెప్పారు. 
 
-“The demolition drive started around 7 a.m. in the morning and is expected to continue till evening. About 100 staffers from the Sangareddy police have been deployed for bandobust. Some citizens expressed their angst however, no major instance of violence has been reported,”said Ameenpur Inspector Nagaraj.
+ఇది ఇలా ఉండగా, ఉత్తర భారత దేశం లో పవన్ కల్యాణ్ పేరు మారు మ్రోగిపోతోంది. సనాతన ధర్మాన్ని దక్షిణ భారత దేసం లో కాపాడటానికి పవన్ ముందుంటారనీ, రాబోయే రోజులలో పవన్ కల్యాణ్ జాతీయ నేత గా ఎదుగుతారనీ టీవీ చానెళ్లూ, ట్విటర్ ప్రముఖులూ పేర్కొన్నారు.
 
-Statement from HYDRAA
+ఏది ఏమైనా హిందువుల పరిస్థితి తమిళనాడులో ఏమాత్రం బాలేదు. పవన్ కల్యాణ్ తనదైన శైలిలో తమిళనాటి రాజకీయాన్ని కుదిపారు. 
 
-In an official statement on the demolition drive carried out by HYDRAA, Commissioner AV Ranganath said that it targeted two places.
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">You are missing something Big on Twitter!<br><br>Pawan Kalyan fans are giving belt treatment to DMK IT cell and DMK IT cell is looking weeker in front of them.The best part is Pawan Kalyan fans are Countering them without abusing.<br><br>I was tagged in few post and took full entertainment.</p>&mdash; Anshul Pandey (@Anshulspiritual) <a href="https://twitter.com/Anshulspiritual/status/1842864936315425116?ref_src=twsrc%5Etfw">October 6, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-“Sheds constructed for commercial operations within the Full Tank Level (FTL) and buffer zone of Kukatpally Lake/Nalla Cheruvu have been identified. Specifically, some individuals have built large sheds along the boundary of Kukatpally Lake for extensive commercial activities, such as catering businesses, which include substantial kitchens for cooking orders. Workers associated with these activities reside on the premises, and while those structures have been removed, HYDRAA will not target buildings occupied for residential purposes,” said the statement. 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">India cannot be saved if Hindus aren’t. <a href="https://twitter.com/PawanKalyan?ref_src=twsrc%5Etfw">@PawanKalyan</a> is fighting a losing battle. Because he is fighting alone, with his hand tied behind his back. And his enemies know this only too well.<br><br>My views: <a href="https://t.co/sY05w4MN6c">pic.twitter.com/sY05w4MN6c</a></p>&mdash; Anand Ranganathan (@ARanganathan72) <a href="https://twitter.com/ARanganathan72/status/1842253610387980379?ref_src=twsrc%5Etfw">October 4, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-He further added that the structures constructed by the builder for the purpose of commercial operations duly encroaching the government land situated at Kistareddypet and Patelguda of Ameenpur mandal. “This initiative aims to restore and protect the integrity of these crucial water bodies and government lands,” said the Commissioner. 
-
-As per the statement, in Kukatpally Lake/Nalla Cheruvu, 16 commercial sheds and compound walls were removed, reclaiming four acres of land. In Kistareddypet, three Reinforced Cement Concrete(RCC) structures were demolished, freeing up one acre. Additionally, 25 RCC structures were torn down in Patelguda, resulting in the reclamation of three acres. Through these efforts, HYDRAA has reclaimed a total of approximately 8 acres of valuable government land.
-
-The demolition drive was carried out with the participation of officials from the Revenue Department, Irrigation Department, and Town Planning Department, alongside the HYDRAA team. 
-
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Mr <a href="https://twitter.com/Udhaystalin?ref_src=twsrc%5Etfw">@Udhaystalin</a> , after 2 years you will be eradicated by the people of TN ,Not in your life time you can match the aura and character of <a href="https://twitter.com/PawanKalyan?ref_src=twsrc%5Etfw">@PawanKalyan</a> , Pawan Kalyan is here to Save sanatana dharma from demons and psuedo seculars like <a href="https://twitter.com/prakashraaj?ref_src=twsrc%5Etfw">@prakashraaj</a> <a href="https://twitter.com/hashtag/SanatanaDharma?src=hash&amp;ref_src=twsrc%5Etfw">#SanatanaDharma</a><a href="https://twitter.com/hashtag/pawankalyan?src=hash&amp;ref_src=twsrc%5Etfw">#pawankalyan</a> <a href="https://t.co/Uf4OtfigB9">pic.twitter.com/Uf4OtfigB9</a></p>&mdash; Rajavamshi reddy (@rajavamshiredd1) <a href="https://twitter.com/rajavamshiredd1/status/1842841431574241423?ref_src=twsrc%5Etfw">October 6, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
