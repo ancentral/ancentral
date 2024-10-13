@@ -1,9 +1,9 @@
 ---
 layout: gallery
 title: "JustSaree Gallery"
-date: 2024-09-23 00:01:35 +0300
+date: 2024-10-13 00:01:35 +0300
 author: AndhraCentral Desk
-image: 'https://i.redd.it/r5i0jszajimd1.png'
+image: 'https://i.redd.it/pa0hmd989nqd1.png'
 tags: [gallery]
 ---
 
@@ -12,6 +12,7 @@ Celebrate the Saree style - Traditional and modern. A feed of saree pictures tha
 
 <div class="gallery-box">
   <div class="gallery">
+    <img src="https://i.redd.it/pa0hmd989nqd1.png" loading="lazy">
     <img src="https://i.redd.it/r5i0jszajimd1.png" loading="lazy">
     <img src="https://res.cloudinary.com/acentral/image/upload/v1726865040/Galleries/b082095c-7e1a-4e17-a6e9-733a63364b0a.png" loading="lazy">
     <img src="https://res.cloudinary.com/acentral/image/upload/v1714178336/Galleries/s7ja8rkzl8mc1_xwfcma.png" loading="lazy">
