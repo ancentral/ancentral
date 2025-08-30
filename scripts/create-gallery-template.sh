@@ -7,14 +7,12 @@
 # YYYY-MM-DD-YYYYMMDD-SomeText-FileNumber.md
 # Each file will contain a front matter block with metadata including the current date and time.
 
-# Check if the number of files to create is provided
-if [ -z "$1" ]; then
-  echo "Usage: $0 <number_of_files>"
-  exit 1
-fi
-
 # Number of files to create
-num_files=$1
+if [ -z "$1" ]; then
+  num_files=1
+else
+  num_files=$1
+fi
 
 # Get today's date in required formats
 date1=$(date +%Y-%m-%d)
