@@ -1,3 +1,4 @@
+@use "../0-settings/variables" as variables;
 /* Sidebar */
 .sidebar-left {
 
@@ -16,7 +17,7 @@
     font-size: 20px;
   }
 
-  @media (max-width: $desktop) {
+  @media (max-width: variables.$desktop) {
     order: 1;
 
     .widget-post-author {
@@ -93,7 +94,7 @@
     margin-right: 8px;
     font-size: 20px;
     will-change: transform;
-    transition: $global-transition;
+  transition: variables.$global-transition;
 
     &:hover {
       transform: scale(1.15);
@@ -104,7 +105,7 @@
     }
   }
 
-  @media (max-width: $desktop) {
+  @media (max-width: variables.$desktop) {
     margin-top: 64px;
     padding-top: 32px;
     border-top: 1px solid var(--border-color);
@@ -114,7 +115,7 @@
     }
   }
 
-  @media (max-width: $mobile) {
+  @media (max-width: variables.$mobile) {
     margin-top: 48px;
   }
 }
@@ -207,7 +208,7 @@
     text-transform: capitalize;
     border-radius: 60px;
     color: var(--heading-font-color);
-    transition: $global-transition;
+    transition: variables.$global-transition;
     background-color: var(--background-alt-color);
 
     &:hover {

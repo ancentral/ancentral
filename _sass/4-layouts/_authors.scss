@@ -1,3 +1,5 @@
+@use '../0-settings/variables' as variables;
+
 /* Authors */
 
 // Section Authors
@@ -85,7 +87,7 @@
     }
   }
 
-  @media (max-width: $desktop) {
+  @media (max-width: variables.$desktop) {
     flex-direction: column;
     align-items: flex-start;
 
@@ -99,7 +101,7 @@
     }
   }
 
-  @media (max-width: $tablet) {
+  @media (max-width: variables.$tablet) {
 
     .section-authors__box {
       margin-right: 50px;
@@ -116,7 +118,7 @@
     }
   }
 
-  @media (max-width: $mobile) {
+  @media (max-width: variables.$mobile) {
     border-radius: 16px;
 
     .section-authors__title {
@@ -229,7 +231,7 @@
     color: var(--text-alt-color);
   }
 
-  @media (max-width: $tablet) {
+  @media (max-width: variables.$tablet) {
     .authors__head {
       margin: 16px 0 32px;
     }
@@ -239,7 +241,7 @@
     }
   }
 
-  @media (max-width: $mobile) {
+  @media (max-width: variables.$mobile) {
     .authors__title {
       font-size: 32px;
     }
@@ -312,7 +314,7 @@
       border-radius: 60px;
       color: var(--link-color);
       background-color: var(--background-alt-color);
-      transition: $global-transition;
+      transition: variables.$global-transition;
 
       &:hover {
         background-color: var(--background-alt-color-2);
@@ -333,7 +335,7 @@
     font-size: 18px;
   }
 
-  @media (max-width: $mobile) {
+  @media (max-width: variables.$mobile) {
 
     .author__content {
       margin: 16px 0 32px;

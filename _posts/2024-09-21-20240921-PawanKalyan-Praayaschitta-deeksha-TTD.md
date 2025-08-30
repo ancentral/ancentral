@@ -7,6 +7,7 @@ author: "AndhraCentral Desk"
 image: 'https://res.cloudinary.com/acentral/image/upload/v1726943238/pawank/pawankalyan-ttd_s9hevc.png'
 tags: [politics]
 featured: true
+telugu: true
 ---
 
 <meta content="{{ site.title }}" property="og:site_name">

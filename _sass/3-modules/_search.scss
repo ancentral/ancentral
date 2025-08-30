@@ -1,3 +1,4 @@
+@use '../0-settings/variables' as variables;
 /* Search */
 .search {
   position: fixed;
@@ -49,7 +50,7 @@
   will-change: transform;
   transition: all .2s ease;
 
-  @media (max-width: $desktop) {
+  @media (max-width: variables.$desktop) {
     margin: 80px auto 0;
   }
 }
@@ -102,7 +103,7 @@
     }
   }
 
-  @media (max-width: $mobile) {
+  @media (max-width: variables.$mobile) {
     .icon__search__close {
       display: block;
     }
@@ -168,7 +169,7 @@
   }
 
   .search-results-title {
-    font-family: $heading-font-family;
+  font-family: variables.$heading-font-family;
     text-decoration: underline;
     text-decoration-color: transparent;
     text-decoration-thickness: 1px;
@@ -191,7 +192,7 @@
     color: var(--heading-font-color);
   }
 
-  @media (max-width: $mobile) {
+  @media (max-width: variables.$mobile) {
     .search-results__link {
       font-size: 15px;
     }

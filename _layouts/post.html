@@ -31,11 +31,19 @@ layout: default
         </div>
 
         {% if page.title %}
-        <h1 class="post__title">{{ page.title | escape }}</h1>
+          {% if page.telugu %}
+            <h1 class="post__title telugu">{{ page.title | escape }}</h1>
+          {% else %}
+            <h1 class="post__title">{{ page.title | escape }}</h1>
+          {% endif %}
         {% endif %}
 
         {% if page.description %}
-        <div class="post__description">{{ page.description }}</div>
+          {% if page.telugu %}
+            <div class="post__description telugu">{{ page.description }}</div>
+          {% else %}
+            <div class="post__description">{{ page.description }}</div>
+          {% endif %}
         {% endif %}
       </div>
 
@@ -48,7 +56,11 @@ layout: default
 
   <div class="row">
     <div class="col col-9 col-w-8 col-d-12">
-      <article class="post">
+      {% if page.telugu %}
+        <article class="post telugu-mixed">
+      {% else %}
+        <article class="post">
+      {% endif %}
 
         {% if page.video_embed %}
         <div class="post-video">
@@ -68,9 +80,15 @@ layout: default
 
         {% endif %}
 
-        <div class="post__content">
-          {{ content }}
-        </div>
+        {% if page.telugu %}
+          <div class="post__content telugu-text">
+            {{ content }}
+          </div>
+        {% else %}
+          <div class="post__content">
+            {{ content }}
+          </div>
+        {% endif %}
         {% include share-buttons.html %}
       </article>
     </div>

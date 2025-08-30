@@ -7,6 +7,7 @@ author: "AndhraCentral Desk"
 image: 'https://res.cloudinary.com/acentral/image/upload/v1728254442/pawank/pawantamilnadu_lk4hsc.jpg'
 tags: [national]
 featured: true
+telugu: true
 ---
 
 <meta content="{{ site.title }}" property="og:site_name">

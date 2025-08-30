@@ -1,3 +1,4 @@
+@use '../0-settings/variables' as variables;
 /* Article */
 .article {
   position: relative;
@@ -17,7 +18,7 @@
     }
   }
 
-  @media (max-width: $tablet) {
+  @media (max-width: variables.$tablet) {
     &.article--big {
       .article__title {
         font-size: 10px;
@@ -75,7 +76,7 @@
     padding-bottom: 75%;
   }
 
-  @media (max-width: $mobile) {
+  @media (max-width: variables.$mobile) {
     border-radius: 10px;
   }
 }
@@ -103,7 +104,7 @@
     padding-bottom: 75%;
   }
 
-  @media (max-width: $mobile) {
+  @media (max-width: variables.$mobile) {
     border-radius: 10px;
   }
 }
@@ -123,7 +124,7 @@
   background: var(--white);
   overflow: hidden;
   pointer-events: none;
-  transition: $global-transition;
+  transition: variables.$global-transition;
   will-change: transform;
 
   svg {
@@ -156,7 +157,7 @@
     text-transform: capitalize;
     border-radius: 60px;
     color: var(--heading-font-color);
-    transition: $global-transition;
+  transition: variables.$global-transition;
     background-color: var(--background-alt-color);
 
     &:hover {
@@ -211,6 +212,7 @@
   color: var(--text-alt-color);
   overflow-y: hidden;
   -webkit-line-clamp: 4;
+  line-clamp: 4;
   -webkit-box-orient: vertical;
 }
 
