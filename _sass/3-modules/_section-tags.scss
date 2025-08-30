@@ -1,6 +1,7 @@
+@use "../0-settings/variables" as variables;
 /* Section Tags */
 .section-tags {
-  @media (max-width: $desktop) {
+  @media (max-width: variables.$desktop) {
     .row .col:last-child {
       flex-grow: 1;
     }

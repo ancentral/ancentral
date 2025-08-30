@@ -1,4 +1,6 @@
 /* Footer */
+@use '../0-settings/variables' as variables;
+/* Footer */
 .footer__inner {
   padding: 64px 0;
   border-top: 1px solid var(--border-color);
@@ -8,14 +10,14 @@
     flex-grow: 1;
   }
 
-  @media (max-width: $wide) {
+  @media (max-width: variables.$wide) {
     .row .col:first-child {
       width: 100%;
       margin-bottom: 64px;
     }
   }
 
-  @media (max-width: $desktop) {
+  @media (max-width: variables.$desktop) {
     .row .col {
       margin-bottom: 48px;
 
@@ -29,7 +31,7 @@
     }
   }
 
-  @media (max-width: $mobile) {
+  @media (max-width: variables.$mobile) {
     padding: 48px 0;
   }
 }
@@ -39,7 +41,7 @@
   margin-bottom: 24px;
   font-size: 32px;
 
-  @media (max-width: $wide) {
+  @media (max-width: variables.$wide) {
     font-size: 28px;
   }
 }
@@ -71,7 +73,7 @@
     display: none;
   }
 
-  @media (max-width: $wide) {
+  @media (max-width: variables.$wide) {
     width: 100%;
   }
 }
@@ -114,7 +116,7 @@
     font-size: 10px;
     color: var(--heading-font-color);
     will-change: transform;
-    transition: $global-transition;
+    transition: variables.$global-transition;
 
     &:hover {
       transform: scale(1.15);
@@ -136,7 +138,7 @@
     margin-bottom: 0;
   }
 
-  @media (max-width: $mobile) {
+  @media (max-width: variables.$mobile) {
     flex-direction: column;
     margin-bottom: 32px;
   }
@@ -176,7 +178,7 @@
     }
   }
 
-  @media (max-width: $mobile) {
+  @media (max-width: variables.$mobile) {
     min-width: 100%;
     margin-right: 0;
     margin-bottom: 20px;
@@ -218,7 +220,7 @@
     }
   }
 
-  @media (max-width: $mobile) {
+  @media (max-width: variables.$mobile) {
     .article__tags {
       .article__tag {
         padding: 6px 16px;
@@ -264,11 +266,11 @@
     }
   }
 
-  @media (max-width: $wide) {
+  @media (max-width: variables.$wide) {
     width: 100%;
   }
 
-  @media (max-width: $mobile) {
+  @media (max-width: variables.$mobile) {
     .subscribe-form {
       flex-direction: column;
     }
@@ -288,7 +290,7 @@
   flex-wrap: wrap;
   padding: 32px 0;
 
-  @media (max-width: $tablet) {
+  @media (max-width: variables.$tablet) {
     flex-direction: column;
     align-items: flex-start;
   }
@@ -339,7 +341,7 @@
     text-underline-offset: 2px;
   }
 
-  @media (max-width: $tablet) {
+  @media (max-width: variables.$tablet) {
     margin-right: 16px;
 
     .toggle-text {

@@ -1,3 +1,4 @@
+@use "../0-settings/variables" as variables;
 /* Scroll Button Top */
 .top {
   display: flex;
@@ -21,7 +22,7 @@
     text-underline-offset: 2px;
   }
 
-  @media (max-width: $tablet) {
+  @media (max-width: variables.$tablet) {
     .top__text {
       font-size: 14px;
     }

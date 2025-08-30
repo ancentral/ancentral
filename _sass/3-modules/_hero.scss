@@ -1,10 +1,11 @@
+@use '../0-settings/variables' as variables;
 /* Hero */
 .hero {
   margin: 10px 0; // Chagned to 10 as title was removed to make the content look tighter.
   // margin: 48px 0;
 
   .hero__inner {
-    max-width: $container-base-width; // 900px;
+  max-width: variables.$container-base-width; // 1280px;
     margin: 0 auto;
     text-align: center;
   }
@@ -30,13 +31,13 @@
     }
   }
 
-  @media (max-width: $desktop) {
+  @media (max-width: variables.$desktop) {
     .hero__title {
       font-size: 48px;
     }
   }
 
-  @media (max-width: $tablet) {
+  @media (max-width: variables.$tablet) {
     margin: 16px 0 32px;
 
     .hero__title {
@@ -54,7 +55,7 @@
     }
   }
 
-  @media (max-width: $mobile) {
+  @media (max-width: variables.$mobile) {
     .hero__inner {
       text-align: left;
     }

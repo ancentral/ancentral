@@ -1,0 +1,34 @@
+@use "../0-settings/variables" as variables;
+
+/* Telugu Font Styles */
+.telugu-text,
+.telugu {
+  font-family: variables.$telugu-font-family;
+}
+
+.telugu-title,
+.article__title.telugu,
+h1.telugu,
+h2.telugu,
+h3.telugu,
+h4.telugu,
+h5.telugu,
+h6.telugu {
+  font-family: variables.$telugu-font-family;
+}
+
+.post__title.telugu,
+.page__title.telugu {
+  font-family: variables.$telugu-font-family;
+}
+
+/* Mixed content support */
+.telugu-mixed h1,
+.telugu-mixed h2,
+.telugu-mixed h3,
+.telugu-mixed h4,
+.telugu-mixed h5,
+.telugu-mixed h6,
+.telugu-mixed .article__title {
+  font-family: variables.$telugu-font-family;
+}
