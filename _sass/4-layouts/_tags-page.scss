@@ -1,4 +1,4 @@
-@use '../0-settings/variables' as variables;
+
 
 /* Tags */
 .tags__inner {
@@ -24,7 +24,7 @@
     padding: 3px 8px;
     min-width: 26px;
     min-height: 26px;
-    font-family: variables.$base-font-family;
+    font-family: $base-font-family;
     font-size: 14px;
     line-height: 1.4;
     font-weight: 500;
@@ -34,7 +34,7 @@
     background-color: var(--background-alt-color);
   }
 
-  @media (max-width: variables.$tablet) {
+  @media (max-width: $tablet) {
     .tag__info {
       margin: 16px 0 32px;
     }
@@ -52,7 +52,7 @@
     }
   }
 
-  @media (max-width: variables.$mobile) {
+  @media (max-width: $mobile) {
     .tag__title {
       font-size: 32px;
     }

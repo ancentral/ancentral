@@ -1,4 +1,4 @@
-@use '../0-settings/variables' as variables;
+
 
 /* Authors */
 
@@ -87,7 +87,7 @@
     }
   }
 
-  @media (max-width: variables.$desktop) {
+  @media (max-width: $desktop) {
     flex-direction: column;
     align-items: flex-start;
 
@@ -101,7 +101,7 @@
     }
   }
 
-  @media (max-width: variables.$tablet) {
+  @media (max-width: $tablet) {
 
     .section-authors__box {
       margin-right: 50px;
@@ -118,7 +118,7 @@
     }
   }
 
-  @media (max-width: variables.$mobile) {
+  @media (max-width: $mobile) {
     border-radius: 16px;
 
     .section-authors__title {
@@ -231,7 +231,7 @@
     color: var(--text-alt-color);
   }
 
-  @media (max-width: variables.$tablet) {
+  @media (max-width: $tablet) {
     .authors__head {
       margin: 16px 0 32px;
     }
@@ -241,7 +241,7 @@
     }
   }
 
-  @media (max-width: variables.$mobile) {
+  @media (max-width: $mobile) {
     .authors__title {
       font-size: 32px;
     }
@@ -314,7 +314,7 @@
       border-radius: 60px;
       color: var(--link-color);
       background-color: var(--background-alt-color);
-      transition: variables.$global-transition;
+      transition: $global-transition;
 
       &:hover {
         background-color: var(--background-alt-color-2);
@@ -335,7 +335,7 @@
     font-size: 18px;
   }
 
-  @media (max-width: variables.$mobile) {
+  @media (max-width: $mobile) {
 
     .author__content {
       margin: 16px 0 32px;

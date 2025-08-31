@@ -1,9 +1,8 @@
-@use '../0-settings/variables' as variables;
 /* Contact */
 .form-box {
   margin-bottom: 64px;
 
-  @media (max-width: variables.$mobile) {
+  @media (max-width: $mobile) {
     margin-bottom: 48px;
   }
 }
@@ -15,7 +14,7 @@
 .contact-description {
   font-size: 18px;
 
-  @media (max-width: variables.$mobile) {
+  @media (max-width: $mobile) {
     font-size: inherit;
   }
 }
@@ -36,7 +35,7 @@
   border: none;
   border-bottom: 1.5px solid var(--border-color);
   outline: 0;
-  transition: variables.$global-transition;
+  transition: $global-transition;
   resize: vertical;
   color: var(--heading-font-color);
   background: var(--background-color);

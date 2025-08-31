@@ -1,6 +1,4 @@
 
-@use '0-settings/variables' as variables;
-
 /**
  * Shared declarations for certain elements.
  */
@@ -22,7 +20,7 @@ pre {
 
 ul, ol,
 dd {
-  margin-left: variables.$base-spacing-unit;
+  margin-left: $base-spacing-unit;
 }
 
 ul, ol {

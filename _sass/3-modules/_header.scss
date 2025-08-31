@@ -1,4 +1,4 @@
-@use '../0-settings/variables' as variables;
+
 
 /* Header */
 .header {
@@ -8,7 +8,7 @@
     justify-content: space-between;
     align-items: center;
     flex-wrap: wrap;
-    padding: variables.$base-spacing-unit;
+    padding: $base-spacing-unit;
   }
 }
 
@@ -45,10 +45,10 @@
   flex: 1 0;
   align-items: center;
 
-  @media (max-width: variables.$desktop) {
+  @media (max-width: $desktop) {
     position: absolute;
     top: 68px;
-    right: variables.$base-spacing-unit;
+    right: $base-spacing-unit;
     z-index: -1;
     display: block;
     min-width: 160px;
@@ -120,7 +120,7 @@
   align-items: center;
   margin-left: 32px;
 
-  @media (max-width: variables.$desktop) {
+  @media (max-width: $desktop) {
     display: block;
   }
 }
@@ -229,7 +229,7 @@
       background-color: var(--background-alt-color);
     }
 
-    @media (max-width: variables.$desktop) {
+    @media (max-width: $desktop) {
       background-color: var(--background-alt-color);
     }
   }
@@ -242,7 +242,7 @@
   display: none;
   cursor: pointer;
 
-  @media (max-width: variables.$desktop) {
+  @media (max-width: $desktop) {
     display: flex;
     align-items: center;
   }
@@ -319,7 +319,7 @@
     margin-left: 24px;
   }
 
-  @media (max-width: variables.$desktop) {
+  @media (max-width: $desktop) {
     flex-direction: column;
     align-items: end;
 

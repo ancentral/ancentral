@@ -1,7 +1,12 @@
 {
   "permissions": {
     "allow": [
-      "Bash(bundle exec:*)"
+      "Bash(bundle exec:*)",
+      "Bash(for file in _sass/3-modules/_footer.scss _sass/3-modules/_header.scss _sass/3-modules/_hero.scss _sass/3-modules/_scroll-button-top.scss _sass/3-modules/_search.scss _sass/3-modules/_section-tags.scss _sass/3-modules/_sections.scss _sass/3-modules/_sidebar.scss)",
+      "Bash(do)",
+      "Bash(sed:*)",
+      "Bash(done)",
+      "Bash(for file in _sass/4-layouts/_authors.scss _sass/4-layouts/_post.scss _sass/4-layouts/_tags-page.scss)"
     ],
     "deny": [],
     "ask": []

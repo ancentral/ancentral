@@ -1,10 +1,10 @@
-@use '../0-settings/variables' as variables;
+
 
 /* Post + Page */
 .post__head {
   margin: 48px 0;
 
-  @media (max-width: variables.$tablet) {
+  @media (max-width: $tablet) {
     margin: 16px 0 32px;
   }
 }
@@ -28,7 +28,7 @@
     text-transform: capitalize;
     border-radius: 60px;
     color: var(--heading-font-color);
-    transition: variables.$global-transition;
+    transition: $global-transition;
     background-color: var(--background-alt-color);
 
     &:hover {
@@ -47,16 +47,16 @@
   font-size: 30px;
   // font-size: 60px;
 
-  @media (max-width: variables.$desktop) {
+  @media (max-width: $desktop) {
     margin-bottom: 20px;
     font-size: 48px;
   }
 
-  @media (max-width: variables.$tablet) {
+  @media (max-width: $tablet) {
     font-size: 35px;
   }
 
-  @media (max-width: variables.$mobile) {
+  @media (max-width: $mobile) {
     margin-bottom: 16px;
     font-size: 32px;
   }
@@ -68,7 +68,7 @@
   font-size: 18px;
   color: var(--text-alt-color);
 
-  @media (max-width: variables.$mobile) {
+  @media (max-width: $mobile) {
     font-size: 16px;
   }
 }
@@ -97,7 +97,7 @@
     padding-bottom: 75%;
   }
 
-  @media (max-width: variables.$mobile) {
+  @media (max-width: $mobile) {
     border-radius: 10px;
   }
 }
@@ -126,7 +126,7 @@
     padding-bottom: 75%;
   }
 
-  @media (max-width: variables.$mobile) {
+  @media (max-width: $mobile) {
     border-radius: 10px;
   }
 }
@@ -155,7 +155,7 @@
     }
   }
 
-  @media (max-width: variables.$mobile) {
+  @media (max-width: $mobile) {
     border-radius: 10px;
   }
 }
@@ -221,7 +221,7 @@
     user-select: none;
   }
 
-  @media (max-width: variables.$mobile) {
+  @media (max-width: $mobile) {
     margin: 48px auto;
   }
 }
@@ -253,7 +253,7 @@
     text-decoration: none;
     color: var(--heading-font-color);
     background-color: var(--background-alt-color);
-    transition: variables.$global-transition;
+    transition: $global-transition;
 
     &:hover {
       background-color: var(--background-alt-color-2);
@@ -274,7 +274,7 @@
     }
   }
 
-  @media (max-width: variables.$tablet) {
+  @media (max-width: $tablet) {
     margin-top: 0;
 
     .share__link {
@@ -282,7 +282,7 @@
     }
   }
 
-  @media (max-width: variables.$mobile) {
+  @media (max-width: $mobile) {
     .share__link {
       font-size: 16px;
       padding: 10px 25px;
@@ -389,7 +389,7 @@
     margin-left: auto;
   }
 
-  @media (max-width: variables.$wide) {
+  @media (max-width: $wide) {
 
     .prev__image,
     .next__image {
@@ -405,7 +405,7 @@
     }
   }
 
-  @media (max-width: variables.$desktop) {
+  @media (max-width: $desktop) {
     padding: 0 0 48px;
     border-top: none;
     border-bottom: 1px solid var(--border-color);
@@ -433,7 +433,7 @@
 
   }
 
-  @media (max-width: variables.$mobile) {
+  @media (max-width: $mobile) {
     flex-wrap: wrap;
     margin-top: 48px;
 
@@ -472,7 +472,7 @@
     display: block;
   }
 
-  @media (max-width: variables.$wide) {
+  @media (max-width: $wide) {
 
     .article__meta,
     .article__info {
@@ -484,7 +484,7 @@
     }
   }
 
-  @media (max-width: variables.$mobile) {
+  @media (max-width: $mobile) {
     margin: 48px auto 0;
   }
 }
@@ -497,7 +497,7 @@
 .disqus-button {
   margin: 64px 0;
 
-  @media (max-width: variables.$mobile) {
+  @media (max-width: $mobile) {
     margin: 48px 0;
   }
 }
@@ -505,7 +505,7 @@
 .vuukle-button {
   margin: 64px 0;
 
-  @media (max-width: variables.$mobile) {
+  @media (max-width: $mobile) {
     margin: 48px 0;
   }
 }
@@ -518,7 +518,7 @@
     margin: 64px auto;
   }
 
-  @media (max-width: variables.$mobile) {
+  @media (max-width: $mobile) {
     &.is-open {
       margin: 48px auto;
     }
@@ -539,7 +539,7 @@
     color: var(--text-alt-color);
   }
 
-  @media (max-width: variables.$mobile) {
+  @media (max-width: $mobile) {
     .error__title {
       font-size: 100px;
     }

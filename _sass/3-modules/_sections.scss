@@ -1,9 +1,9 @@
-@use "../0-settings/variables" as variables;
+
 /* Sections */
 .section {
   margin-bottom: 10px;
 
-  @media (max-width: variables.$mobile) {
+  @media (max-width: $mobile) {
     margin-bottom: 48px;
   }
 }
@@ -16,7 +16,7 @@
   position: relative;
   margin-bottom: 10px;
 
-  @media (max-width: variables.$mobile) {
+  @media (max-width: $mobile) {
     margin-bottom: 10px;
   }
 }
@@ -32,7 +32,7 @@
   margin-bottom: 0;
   font-size: 24px;
 
-  @media (max-width: variables.$mobile) {
+  @media (max-width: $mobile) {
     font-size: 24px;
   }
 }
