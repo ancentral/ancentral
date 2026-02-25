@@ -17,5 +17,5 @@ I would recommend checking the [Deployment Methods](https://jekyllrb.com/docs/de
 ### Git push
 
 ```
-ssh-add --apple-use-keychain ~/.ssh/ancentral
+ssh-add --apple-use-keychain ~/.ssh/github-andhracentral
 ```
