@@ -18,4 +18,8 @@ I would recommend checking the [Deployment Methods](https://jekyllrb.com/docs/de
 
 ```
 ssh-add --apple-use-keychain ~/.ssh/github-andhracentral
+git config user.email "andhracentralwebsite@gmail.com"
+git config user.name "Chandra"
+git remote set-url origin git@github.com-andhracentral:ancentral/ancentral.git
+git push
 ```
