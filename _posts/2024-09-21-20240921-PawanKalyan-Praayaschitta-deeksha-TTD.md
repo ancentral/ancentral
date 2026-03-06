@@ -5,7 +5,7 @@ description: ""
 date: 2024-09-21 00:01:35 +0300
 author: "AndhraCentral Desk"
 image: 'https://res.cloudinary.com/acentral/image/upload/v1726943238/pawank/pawankalyan-ttd_s9hevc.png'
-tags: [politics]
+tags: [PawanKalyan, Politics, AndhraPradesh]
 featured: true
 telugu: true
 ---

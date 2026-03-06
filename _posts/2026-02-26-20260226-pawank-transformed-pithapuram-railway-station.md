@@ -5,7 +5,7 @@ description: ""
 date: 2026-02-26 00:01:35 +0300
 author: "AndhraCentral Desk"
 image: 'https://res.cloudinary.com/acentral/image/upload/v1772077851/pawank/pithapuram-station_znoi5v.jpg'
-tags: [national]
+tags: [PawanKalyan, Politics, AndhraPradesh]
 featured: true
 ---
 

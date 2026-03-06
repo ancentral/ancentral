@@ -5,7 +5,7 @@ description: "రాష్ట్రంలో రాజకీయ నేతల వ
 date: 2025-08-23 14:41:30 -0700
 author: "AndhraCentral Desk"
 image: 'https://res.cloudinary.com/acentral/image/upload/v1755986541/cbn/cr-202504206804bebf5c351_waxgok.jpg'
-tags: [politics]
+tags: [Chandrababu, Politics, AndhraPradesh]
 featured: true
 telugu: true
 ---
