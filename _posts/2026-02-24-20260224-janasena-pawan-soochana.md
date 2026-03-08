@@ -5,7 +5,7 @@ description: ""
 date: 2026-02-24 00:01:35 +0300
 author: "AndhraCentral Desk"
 image: 'https://res.cloudinary.com/acentral/image/upload/v1771997914/pawank/pk-soochana_pqnwbu.jpg'
-tags: [national]
+tags: [PawanKalyan, Politics, AndhraPradesh]
 featured: true
 ---
 
